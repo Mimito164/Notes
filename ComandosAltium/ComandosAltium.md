@@ -59,7 +59,7 @@ Comando Vertical: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd>
 
 Dentro del comando align esta la posibilidad de separar los compoentes de manera equidistante de manera horizontal o vertical, de cual
 
-![NotAlign](./Fotos/NotAlign.png)
+![AlignBot](./Fotos/AlignBot.png)
 
 Despues
 
@@ -72,3 +72,13 @@ Comando: <kbd>t</kbd> > <kbd>a</kbd> > <kbd>u</kbd>
 Para poder cambiar todos los designators de manera rapida y sensilla se puede utilizar este comando. Este comando le asignara un numero a cada designator de los componentes. 
 
 Este comando solo afectara a aquellos designators que tengan un signo de pregunta "?"
+
+## Reset Designators
+
+Comando: <kbd>t</kbd> > <kbd>a</kbd> > <kbd>e</kbd>
+
+Resetea todos los deignators, convierte todos los designators numerados por signos de pregunta "?".
+
+Este comando se usa para resetear todos los designators, esto puede llegar a ser util en la etapa de diseño del esquematico cuando copiemos y peguemos partes de un circuito que ya tenga deisgnators y estos al copiarlos queden repetidos (lo que nos traiga problemas).
+
+## Cambio o Modificacion 
