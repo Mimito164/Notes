@@ -1,5 +1,42 @@
 <h1>La Biblia de Altium</h1>
 
+- [Comandos para el Esquemático](#comandos-para-el-esquemático)
+  - [Formato de la hoja de Esquemático](#formato-de-la-hoja-de-esquemático)
+  - [Comando Place](#comando-place)
+    - [Place Part](#place-part)
+    - [Place Wire](#place-wire)
+    - [Place Net Label](#place-net-label)
+  - [Comando Align](#comando-align)
+    - [Distribuir](#distribuir)
+    - [Align Vertical/Horizontal centers](#align-verticalhorizontal-centers)
+  - [Designators](#designators)
+  - [Reset Designators](#reset-designators)
+  - [SCH List y cambio de Footprints](#sch-list-y-cambio-de-footprints)
+  - [Update to Schematic](#update-to-schematic)
+  - [Cross Select mode.](#cross-select-mode)
+- [Comandos para el Pcb](#comandos-para-el-pcb)
+  - [Modificación de Grid](#modificación-de-grid)
+  - [Grid Customizada](#grid-customizada)
+    - [Steps](#steps)
+    - [Display](#display)
+  - [Rules](#rules)
+    - [Width Routing](#width-routing)
+    - [Clearance](#clearance)
+      - [Separación del polígono:](#separación-del-polígono)
+  - [Place](#place)
+  - [Cambio de capa](#cambio-de-capa)
+  - [Tipos de pista](#tipos-de-pista)
+  - [Cambio de ancho de pista](#cambio-de-ancho-de-pista)
+  - [Align (pero en PCB)](#align-pero-en-pcb)
+    - [Distribuir](#distribuir-1)
+    - [Align Vertical/Horizontal centers](#align-verticalhorizontal-centers-1)
+  - [Resaltar Capas](#resaltar-capas)
+  - [Resaltar pistas o conecciones](#resaltar-pistas-o-conecciones)
+    - [Aumentar o disminuir el contraste](#aumentar-o-disminuir-el-contraste)
+  - [Keepout](#keepout)
+  - [Re-definir el espacio de trabajo.](#re-definir-el-espacio-de-trabajo)
+
+
 # Comandos para el Esquemático
 
 ## Formato de la hoja de Esquemático
@@ -291,7 +328,7 @@ En el esquemático habíamos visto que podemos alinear componentes respecto a su
 
 ## Resaltar Capas
 
-Comando: <kbd>Shift</kbd> + <kbd>s<kbd>
+Comando: <kbd>Shift</kbd> + <kbd>s</kbd>
 
 Para poder obtener una mejor visualización de la capa en la que estamos trabajando podemos usar este comando. Esto hara que el resto de capas excepto en la que estamos trabajando, quedaran de color gris. Si volvemos a usar este comando directamente desaparecen.
 
