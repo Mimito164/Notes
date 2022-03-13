@@ -1,4 +1,4 @@
-<h1>La Biblia de Altium</h1>
+<h1>La Biblia de Altium 🧾</h1>
 
 - [Comandos para el Esquemático](#comandos-para-el-esquemático)
   - [Formato de la hoja de Esquemático](#formato-de-la-hoja-de-esquemático)
