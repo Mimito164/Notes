@@ -35,6 +35,8 @@
     - [Aumentar o disminuir el contraste](#aumentar-o-disminuir-el-contraste)
   - [Keepout](#keepout)
   - [Re-definir el espacio de trabajo.](#re-definir-el-espacio-de-trabajo)
+  - [Modificacion de footprint](#modificacion-de-footprint)
+  - [Repour polygon](#repour-polygon)
 
 
 # Comandos para el Esquemático
@@ -369,6 +371,27 @@ La forma mas rapida y que les recomendamos es la siguiente:
 1. Primero definimos un keepout del borde de la placa.
 2. Luego seleccionamos los segmentos. Una forma rápida de hacer este es seleccionando un solo segmento y luego presionan <kbd>Tab</kbd>, esto seleccionara todos los segmentos que estén en contacto al que hayamos seleccionado inicialmente.
 3. Finalmente usamos el comando <kbd>d</kbd> > <kbd>s</kbd> > <kbd>d</kbd>.
+
+## Modificacion de footprint
+
+Si bien este comando esta ubicado en la categoria de "Pcb" corresponde a la categoria de pcb y esquematico.
+
+En este caso se va a detallar como cambiar al footrpint a un componente en particular del esquematico.
+
+1. Seleccionar el componente e ir a las propiedades del mismo.
+2. En la seccion "Parapeters" seleccionamos el parametro "footprint" y hacemos click en el boton del lapiz para editar o en el boton "Add" para agregar una nueva footprint (a fines practicos es indistinto).
+
+    ![Footprint](./Fotos/Footprint.png)
+
+3. Luego les abrira una ventana en la que deben buscar su footprint.
+
+
+## Repour polygon
+
+Comando: "Seleccionar poligono" > "Click derecho" > <kbd>y</kbd> > <kbd>a</kbd>
+
+Si hacemos algunos cambios sobre nuestro diseño, el poligono no se actualiza, para ello ejecutamos este comando y automaticamente se actualizará.
+
 
 
 
