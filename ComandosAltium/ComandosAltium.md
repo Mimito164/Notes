@@ -411,18 +411,11 @@ Preparativos previos:
 ## Pdf de Impresion
 
 1. Ahora hacer Click derecho sobre el archivo nuevo y hacer click en "print preview".
-  <img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
-
-2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberian ver identicas.
-  <img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
-
-3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberian ver identicas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).
-  <img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
-
+<img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
+2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberian ver identicas.<img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
+3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberian ver identicas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).<img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
 4. Hacemos click en "ok" y luego presionamos el boton de print, seleccionado la impresora que este conectada o "Microsoft Print to PDF" si deseamos generar un archivo PDF.
-
-5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberian ver identicas a la imagen.
-  <img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
+5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberian ver identicas a la imagen.<img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
   **Notesé que la casilla de "Mirror esta tildada"**
 
 
