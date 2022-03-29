@@ -38,6 +38,7 @@
   - [Modificacion de footprint](#modificacion-de-footprint)
   - [Repour polygon](#repour-polygon)
 - [Archivos de Impresión](#archivos-de-impresión)
+  - [Pdf de Impresion](#pdf-de-impresion)
 
 
 # Comandos para el Esquemático
@@ -399,23 +400,15 @@ Estos son los pasos a seguir para generar un archivo de impresión.
 
 Preparativos previos:
 
-1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando.
-  <figure>
-    <img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto">
-    <figcaption style="text-align: center;">La placa se deberia ver algo así</figcaption>
-  </figure>
-2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto.
-  <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
-3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"
-  <img src="./Fotos/panelize.png" style="display:block;margin:auto">
-4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto.
-  <img src="./Fotos/panelizepcbdoc.png" style="display:block;margin:auto">
+1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando. <figure><img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto"><figcaption style="text-align: center;">La placa se deberia ver algo así</figcaption></figure>
+2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto. <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
+3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"<img src="./Fotos/panelize.png" style="display:block;margin:auto">
+4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto.<img src="./Fotos/panelizePcbdoc.png" style="display:block;margin:auto">
 5. Elegir la cantidad de filas y columnas.
 6. Definir la separación entre placa y placa en los parámetros "Row Margin" y "Column Margin" (recomiendo 5mm)
-7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo
-  <img src="./Fotos/panelizeplaced.png" style="display:block;margin:auto">
+7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo.<img src="./Fotos/panelizeplaced.png" style="display:block;margin:auto">
 
-Pdf de Impresion
+## Pdf de Impresion
 
 1. Ahora hacer Click derecho sobre el archivo nuevo y hacer click en "print preview".
   <img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
