@@ -37,6 +37,7 @@
   - [Re-definir el espacio de trabajo.](#re-definir-el-espacio-de-trabajo)
   - [Modificacion de footprint](#modificacion-de-footprint)
   - [Repour polygon](#repour-polygon)
+- [Archivos de Impresión](#archivos-de-impresión)
 
 
 # Comandos para el Esquemático
@@ -391,6 +392,50 @@ En este caso se va a detallar como cambiar al footrpint a un componente en parti
 Comando: "Seleccionar poligono" > "Click derecho" > <kbd>y</kbd> > <kbd>a</kbd>
 
 Si hacemos algunos cambios sobre nuestro diseño, el poligono no se actualiza, para ello ejecutamos este comando y automaticamente se actualizará.
+
+# Archivos de Impresión
+
+Estos son los pasos a seguir para generar un archivo de impresión.
+
+Preparativos previos:
+
+1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando.
+  <figure>
+    <img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto">
+    <figcaption style="text-align: center;">La placa se deberia ver algo así</figcaption>
+  </figure>
+2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto.
+  <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
+3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"
+  <img src="./Fotos/panelize.png" style="display:block;margin:auto">
+4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto.
+  <img src="./Fotos/panelizepcbdoc.png" style="display:block;margin:auto">
+5. Elegir la cantidad de filas y columnas.
+6. Definir la separación entre placa y placa en los parámetros "Row Margin" y "Column Margin" (recomiendo 5mm)
+7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo
+  <img src="./Fotos/panelizeplaced.png" style="display:block;margin:auto">
+
+Pdf de Impresion
+
+1. Ahora hacer Click derecho sobre el archivo nuevo y hacer click en "print preview".
+  <img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
+
+2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberian ver identicas.
+  <img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
+
+3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberian ver identicas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).
+  <img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
+
+4. Hacemos click en "ok" y luego presionamos el boton de print, seleccionado la impresora que este conectada o "Microsoft Print to PDF" si deseamos generar un archivo PDF.
+
+5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberian ver identicas a la imagen.
+  <img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
+  **Notesé que la casilla de "Mirror esta tildada"**
+
+
+
+
+
 
 
 
