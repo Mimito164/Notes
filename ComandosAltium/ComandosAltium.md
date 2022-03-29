@@ -31,14 +31,14 @@
     - [Distribuir](#distribuir-1)
     - [Align Vertical/Horizontal centers](#align-verticalhorizontal-centers-1)
   - [Resaltar Capas](#resaltar-capas)
-  - [Resaltar pistas o conecciones](#resaltar-pistas-o-conecciones)
+  - [Resaltar pistas o conexiones](#resaltar-pistas-o-conexiones)
     - [Aumentar o disminuir el contraste](#aumentar-o-disminuir-el-contraste)
   - [Keepout](#keepout)
   - [Re-definir el espacio de trabajo.](#re-definir-el-espacio-de-trabajo)
-  - [Modificacion de footprint](#modificacion-de-footprint)
+  - [Modificación de footprint](#modificación-de-footprint)
   - [Repour polygon](#repour-polygon)
 - [Archivos de Impresión](#archivos-de-impresión)
-  - [Pdf de Impresion](#pdf-de-impresion)
+  - [PDF de Impresión](#pdf-de-impresión)
 
 
 # Comandos para el Esquemático
@@ -248,7 +248,7 @@ Si nosotros deseamos solamente modificar la separación del polígono respecto a
 
 ![duplicateRule](./Fotos/duplicateRule.png)
 
-La regla deberá tener las siguientes caracteristicas:
+La regla deberá tener las siguientes características:
 
 1. En nombre de la Rule debería ser representativo (en general uso pol "Polygon")
 2. En la sección de "Where the first object matches" elegimos la opción "Custom Query"
@@ -260,7 +260,7 @@ La regla deberá tener las siguientes caracteristicas:
     1. Para ello apretamos el botón de abajo a la izquierda que dice "Priorities".
     2. Seleccionamos nuestra regla del polígono y apretamos el botón de increase priority.
 
-Asi debera verse nuestra nueva regla:
+Así deberá verse nuestra nueva regla:
 
 ![polygonClearance](./Fotos/poligonClearance.png)
 
@@ -276,13 +276,13 @@ Al igual que en el esquemático en el pcb tenemos una barra para colocar distint
 
 También tenemos el comando place, para ello presionamos <kbd>p</kbd> y luego la letra que corresponda con el elemento que queramos colocar.
 
-Por ejemplo para colocar una pista presionamos <kbd>p</kbd> > <kbd>t</kbd> (de "track", pista en inglés).
+Por ejemplo, para colocar una pista presionamos <kbd>p</kbd> > <kbd>t</kbd> (de "track", pista en inglés).
 
 ## Cambio de capa
 
 Si quisiéramos cambiar de capa podemos hacerlo apretando <kbd>Ctrl</kbd> + <kbd>Shift</kbd> y movemos la rueda del mouse.
 
-Algo interesante de este comando es que si estamos colocando una pista y en el momento cambiamos de pista, automáticamente nos coloca una vía:
+Algo interesante de este comando es que, si estamos colocando una pista y en el momento cambiamos de pista, automáticamente nos coloca una vía:
 
 ![layerChange](./Fotos/layerChange.gif)
 
@@ -308,7 +308,7 @@ Para cambiar el ancho de pista podemos presionar la tecla <kbd>3</kbd> **mientra
 
 Comando: <kbd>a</kbd> > <kbd>t</kbd> / <kbd>b</kbd> / <kbd>l</kbd> / <kbd>r</kbd>
 
-En el esquematico habíamos visto que existe la posibilidad de alinear componentes, bueno... en el pcb también.
+En el esquemático habíamos visto que existe la posibilidad de alinear componentes, bueno... en el pcb también.
 
 ### Distribuir
 
@@ -334,15 +334,15 @@ En el esquemático habíamos visto que podemos alinear componentes respecto a su
 
 Comando: <kbd>Shift</kbd> + <kbd>s</kbd>
 
-Para poder obtener una mejor visualización de la capa en la que estamos trabajando podemos usar este comando. Esto hara que el resto de capas excepto en la que estamos trabajando, quedaran de color gris. Si volvemos a usar este comando directamente desaparecen.
+Para poder obtener una mejor visualización de la capa en la que estamos trabajando podemos usar este comando. Esto hará que el resto de capas excepto en la que estamos trabajando, quedaran de color gris. Si volvemos a usar este comando directamente desaparecen.
 
-## Resaltar pistas o conecciones
+## Resaltar pistas o conexiones
 
 Comando: <kbd>Ctrl</kbd> + Click Izquierdo
 
 Para resaltar una pista o conexión hacemos "<kbd>Ctrl</kbd> + Click Izquierdo" sobre la pista o isla que queramos resaltar.
 
-Para dejar de resaltar conecciones, simplemente presionan "<kbd>Ctrl</kbd> + Click Izquierdo" sobre un espacio negro.
+Para dejar de resaltar conexiones, simplemente presionan "<kbd>Ctrl</kbd> + Click Izquierdo" sobre un espacio negro.
 
 ### Aumentar o disminuir el contraste
 
@@ -360,7 +360,7 @@ Comando: <kbd>p</kbd> > <kbd>k</kbd> > <kbd>t</kbd>
 
 Una manera para definir los límites de una es usando un "keepout". Hay muchos elementos que altium nos permite usar para colocar un keepout. El que nosotros utilizaremos en esta ocasión, será el de una pista. La forma de colocación será exactamente igual que la de una pista solo que en vez de ser una pista será un keepout.
 
-Los elementos keepout, como dice su nombre, no permiten que hayan elementos cerca.
+Los elementos keepout, como dice su nombre, no permiten que haya elementos cerca.
 
 ## Re-definir el espacio de trabajo.
 
@@ -368,31 +368,31 @@ Comando: <kbd>d</kbd> > <kbd>s</kbd> > <kbd>d</kbd>
 
 Hay muchas maneras de redefinir el espacio de trabajo (el cuadrado negro). Una es presionando <kbd>1</kbd> esto cambiará el espacio de trabajo y solo se limitará a mostrar herramientas de trabajo relacionadas con la forma de la placa, no vamos a detallar cuál/cuáles herramientas son útiles, pero los invitamos a investigarlas.
 
-La forma mas rapida y que les recomendamos es la siguiente:
+La forma más rápida y que les recomendamos es la siguiente:
 
 1. Primero definimos un keepout del borde de la placa.
 2. Luego seleccionamos los segmentos. Una forma rápida de hacer este es seleccionando un solo segmento y luego presionan <kbd>Tab</kbd>, esto seleccionara todos los segmentos que estén en contacto al que hayamos seleccionado inicialmente.
 3. Finalmente usamos el comando <kbd>d</kbd> > <kbd>s</kbd> > <kbd>d</kbd>.
 
-## Modificacion de footprint
+## Modificación de footprint
 
-Si bien este comando esta ubicado en la categoria de "Pcb" corresponde a la categoria de pcb y esquematico.
+Si bien este comando está ubicado en la categoría de "Pcb" corresponde a la categoría de pcb y esquemático.
 
-En este caso se va a detallar como cambiar al footrpint a un componente en particular del esquematico.
+En este caso se va a detallar como cambiar al footrpint a un componente en particular del esquemático.
 
 1. Seleccionar el componente e ir a las propiedades del mismo.
-2. En la seccion "Parapeters" seleccionamos el parametro "footprint" y hacemos click en el boton del lapiz para editar o en el boton "Add" para agregar una nueva footprint (a fines practicos es indistinto).
+2. En la sección "Parapeters" seleccionamos el parámetro "footprint" y hacemos click en el botón del lápiz para editar o en el boton "Add" para agregar una nueva footprint (a fines prácticos es indistinto).
 
     ![Footprint](./Fotos/Footprint.png)
 
-3. Luego les abrira una ventana en la que deben buscar su footprint.
+3. Luego les abrirá una ventana en la que deben buscar su footprint.
 
 
 ## Repour polygon
 
-Comando: "Seleccionar poligono" > "Click derecho" > <kbd>y</kbd> > <kbd>a</kbd>
+Comando: "Seleccionar polígono" > "Click derecho" > <kbd>y</kbd> > <kbd>a</kbd>
 
-Si hacemos algunos cambios sobre nuestro diseño, el poligono no se actualiza, para ello ejecutamos este comando y automaticamente se actualizará.
+Si hacemos algunos cambios sobre nuestro diseño, el polígono no se actualiza, para ello ejecutamos este comando y automáticamente se actualizará.
 
 # Archivos de Impresión
 
@@ -400,7 +400,7 @@ Estos son los pasos a seguir para generar un archivo de impresión.
 
 Preparativos previos:
 
-1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando. <figure><img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto"><figcaption style="text-align: center;">La placa se deberia ver algo así</figcaption></figure>
+1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando. <figure><img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto"><figcaption style="text-align: center;">La placa se debería ver algo así</figcaption></figure>
 2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto. <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
 3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"<img src="./Fotos/panelize.png" style="display:block;margin:auto">
 4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto.<img src="./Fotos/panelizePcbdoc.png" style="display:block;margin:auto">
@@ -408,21 +408,13 @@ Preparativos previos:
 6. Definir la separación entre placa y placa en los parámetros "Row Margin" y "Column Margin" (recomiendo 5mm)
 7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo.<img src="./Fotos/panelizeplaced.png" style="display:block;margin:auto">
 
-## Pdf de Impresion
+## PDF de Impresión
 
 1. Ahora hacer Click derecho sobre el archivo nuevo y hacer click en "print preview".
 <img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
-2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberian ver identicas.<img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
-3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberian ver identicas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).<img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
-4. Hacemos click en "ok" y luego presionamos el boton de print, seleccionado la impresora que este conectada o "Microsoft Print to PDF" si deseamos generar un archivo PDF.
-5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberian ver identicas a la imagen.<img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
-  **Notesé que la casilla de "Mirror esta tildada"**
+2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberían ver idénticas.<img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
+3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberían ver idénticas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).<img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
+4. Hacemos click en "ok" y luego presionamos el botón de print, seleccionado la impresora que este conectada o "Microsoft Print to PDF" si deseamos generar un archivo PDF.
+5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberían ver idénticas a la imagen.<img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
 
-
-
-
-
-
-
-
-
+**Nótese que la casilla de "Mirror" esta tildada**
