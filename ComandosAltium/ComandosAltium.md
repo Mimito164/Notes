@@ -408,7 +408,7 @@ Preparativos previos:
 6. Definir la separación entre placa y placa en los parámetros "Row Margin" y "Column Margin" (recomiendo 5mm)
 7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo.
 
-<img src="./Fotos/panelizeplaced.png" style="display:block;margin:auto">
+<img src="./Fotos/PanelizePlaced.png" style="display:block;margin:auto">
 
 ## PDF de Impresión
 
