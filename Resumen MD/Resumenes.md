@@ -335,7 +335,7 @@ $X \in P(A) \Leftrightarrow X \subseteq A$
 
 ACLARACIONES: 
 
-- $|P(A)| = 2^{|A|}$
+- $`|P(A)| = 2^{|A|}`$
 - $P(\empty) = {\empty} (2^0 = 1 \therefore |P(\empty)| = 1 )$
 
 ## **Particion de un conjunto**
