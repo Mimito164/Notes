@@ -1,10 +1,61 @@
-Imagen: Algo que percibe el ojo
+# Optica
 
-Aveces el ojo interoreta que la luz que recibe proviene de "una fuente de luz" que existe. Entonces la imagen no es real
-
-en triangulos semejantes:
+## Triangulos Semejantes:
 
 $$ \frac{a}{A} = \frac{b}{B} =  \frac{c}{C} $$
+
+
+* Basicamente lo que dice este tema es que se mantiene la proporcion entre lados
+* Esto sucede con los lados y con la altura
+
+
+## Imagen Real vs Imagen Virtual
+
+**La imagen real** aquella en donde realmente se intersectan los rayos de luz
+
+En cambio **la imagen virtual** es la que se forma de la **proyeccion** de los rayos luminicos.
+
+## Espejos Planos
+
+1. El rayo incidente, el reflejado y la normal a la superficie estan todos del mimsmo plano.
+2. El angulo de incidencia es igual al angulo de reflexion
+
+* Los angulos de incidencia y refleccion se toman desde la normal al 
+
+## Espejos Concavos y Convexos
+
+* Concavo $\\Luz \Rarr \quad )$
+* Convexo $\\Luz \Rarr \quad ($
+
+### Formula de Descartes
+
+$$ \frac{1}{x} + \frac{1}{x'} = \frac{1}{g} $$
+
+* Distancia objeto: $x$
+* Distancia imgaen: $x'$
+* Distancia focal: $f$
+
+$$ f = \frac{R}{2} $$
+
+* Radio de la esfera: $R$
+Z
+
+## Convencion de Signos
+
+![convEspejos](./Fotos/ConvencionEspejos.png)
+
+## Aumento Lateral
+
+$$ A = \frac{y'}{y} = \frac{-x'}{x} $$
+
+## Indice de Refraccion
+
+$$ n = \frac{c}{v_{\text{luz}}} $$
+
+## Ley de Snell
+
+$$ n_i \sin(\theta_i) = n_r \sin(\theta_r) $$
+
 
 ## Lentes 👓
 
