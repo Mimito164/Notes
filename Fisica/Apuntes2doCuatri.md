@@ -231,14 +231,14 @@ $$e = - \frac{ \vec{v_{2_d}} - \vec{v_{1_d}} }{\vec{v_{2_a}} - \vec{v_{1_a}}} $$
 
 * Si el choque es plastico $e=0$
 * Si el choque es perfectamente elastico $e=1$
-* Si el choque es elastico $0<e<1$
+* Si el choque es elastico $0 < e <  1$
 
 ### Choque Plastico
 
 *Los cuerpos quedan unidos después de chocar, y por lo tanto los cuerpos se mueven con la misma velocidad después del choque*
 
 $$
-p_{\text{cm}_antes} = p_{\text{cm}_despues}\\
+p_{\text{cm}_\text{antes}} = p_{\text{cm}_\text{despues}}\\
 m_1\cdot v_{1_a} + m_2\cdot v_{2_a} = m_1\cdot {\bf v_d} + m_2\cdot {\bf v_d}\\
 m_1\cdot v_{1_a} + m_2\cdot v_{2_a} = (m_1+m_2){\bf v_d}
 $$
