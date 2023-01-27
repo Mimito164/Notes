@@ -20,6 +20,7 @@
     - [Steps](#steps)
     - [Display](#display)
   - [Rules](#rules)
+    - [Reglas recomendadas (...para montajes...)](#reglas-recomendadas-para-montajes)
     - [Width Routing](#width-routing)
     - [Clearance](#clearance)
       - [Separación del polígono:](#separación-del-polígono)
@@ -228,6 +229,17 @@ Para poder modificar los parámetros estándar y las reglas que guiarán el dise
 
 ![RulesMenu](./Fotos/rulesMenu.png)
 
+### Reglas recomendadas (...para montajes...)
+
+|Rule| Valor|
+|:---|----:|
+|Electrical > Clearance | Recomiendo copiar lo que dice [esta seccion](#separación-del-polígono)
+|Routing > Width > Width| `Min Width`: 0.7mm<br /> `Preferred Width`: 0.8mm<br />`Max Width`: 1mm  |
+|Plane > Polygon Connect Style > PolygonConnect | En casos en los que se requiera de una mayor capacidad de corriente se debe aumentar el ancho de los "Conductors" o en casos mas extremos se puede usar la opcion "Direct Connect" en "Relief Connect" |
+
+
+*Se recomiendan usar estas reglas al menos en la materia de montajes a menos que se indique lo contrario.*
+
 ### Width Routing
 
 Lo primero será modificar el ancho mínimo preferido y máximo de las pistas, para eso nos vamos a la siguiente dirección: "Routing > Width > Width".
@@ -400,23 +412,59 @@ Estos son los pasos a seguir para generar un archivo de impresión.
 
 Preparativos previos:
 
-1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando. <figure><img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto"><figcaption style="text-align: center;">La placa se debería ver algo así</figcaption></figure>
-2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto. <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
-3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"<img src="./Fotos/panelize.png" style="display:block;margin:auto">
-4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto.<img src="./Fotos/panelizePcbdoc.png" style="display:block;margin:auto">
+1. Ajustar el espacio de trabajo (el "cuadrado negro") al borde de la placa. Mirar [este](#re-definir-el-espacio-de-trabajo) comando. 
+  
+  <figure><img src="./Fotos/pcbexample.png" style="width:70%;display:block;margin:auto"><figcaption style="text-align: center;">La placa se debería ver algo así</figcaption></figure>
+
+2. Añadir un nuevo archivo .PcbDoc provisorio al proyecto.
+  
+   <img src="./Fotos/pcbprint.png" style="display:block;margin:auto">
+
+3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"
+
+  <img src="./Fotos/panelize.png" style="display:block;margin:auto">
+
+4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto (puede ser que este menu ocupe poco espacio y no se vean las opciones como lo muestra la imagen para mejorar, para solucionar esto basta con agrandar este menu ).
+
+  <img src="./Fotos/panelizePcbdoc.png" style="display:block;margin:auto">
+
 5. Elegir la cantidad de filas y columnas.
+
 6. Definir la separación entre placa y placa en los parámetros "Row Margin" y "Column Margin" (recomiendo 5mm)
+
 7. Finalmente colocarlo cerca de la esquina inferior del espacio de trabajo.
 
-<img src="./Fotos/PanelizePlaced.png" style="display:block;margin:auto">
+  <img src="./Fotos/PanelizePlaced.png" style="display:block;margin:auto">
 
 ## PDF de Impresión
 
 1. Ahora hacer Click derecho sobre el archivo nuevo y hacer click en "print preview".
-<img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
-2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberían ver idénticas.<img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
-3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberían ver idénticas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).<img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
+  <img src="./Fotos/printpreview.png" style="display:block;margin:auto;width:60%">
+
+
+2. Click derecho sobre la hoja y hacer click en "page setup". Las opciones se deberían ver idénticas.
+    1. En la seccion de "Printer Paper" lo pueden ajustar de la forma que mas les sea conveniente.
+
+    2. Idem anterior pero con la seccion de "Offset".
+
+  <img src="./Fotos/pagesetup.png" style="display:block;margin:auto;width:100%">
+
+3. Cerramos la ventana, luego click derecho sobre la hoja y hacer click en "configuration". **Para bottom layer** las opciones se deberían ver idénticas a la imagen (si no aparece la capa bottom layer, entonces debemos hacer click derecho y luego "Insert Layer" y agregar la bottom layer).
+  
+  <img src="./Fotos/configbottom.png" style="display:block;margin:auto;width:180%">
+
 4. Hacemos click en "ok" y luego presionamos el botón de print, seleccionado la impresora que este conectada o "Microsoft Print to PDF" si deseamos generar un archivo PDF.
-5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberían ver idénticas a la imagen.<img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
+
+5. Si la placa es doble faz debemos repetir el paso 3 y 4 solo que ahora agregando la capa de Top Layer. Las opciones se deberían ver idénticas a la imagen.
+
+  <img src="./Fotos/configtop.png" style="display:block;margin:auto;width:180%">
 
 **Nótese que la casilla de "Mirror" esta tildada**
+
+
+<h1>BOTTOM <b>NO</b> va <i>"MIRROREADO"</i></h1>
+<h1>TOP <b>SI</b> va <i>"MIRROREADO"</i></h1>
+
+<h2>El texto en BOTTOM <b>SI</b> va <i>"MIRROREADO"</i></h2>
+<h2>El texto en TOP <b>NO</b> va <i>"MIRROREADO"</i></h2>
+
