@@ -88,7 +88,7 @@
 		- [Maxitermino](#maxitermino)
 			- [Forma Normal Disyuntiva (FNC)](#forma-normal-disyuntiva-fnc)
 		- [Conjuntos Funcionalmente Completos](#conjuntos-funcionalmente-completos)
-- [Relaciones de Recurrencia](#relaciones-de-recurrencia)
+- [Unidad 6: Relaciones de Recurrencia](#unidad-6-relaciones-de-recurrencia)
 	- [Recursion](#recursion)
 	- [Clasificacion de Relaciones de Recurrencia](#clasificacion-de-relaciones-de-recurrencia)
 	- [Tipos de Relaciones de Recurrencia:](#tipos-de-relaciones-de-recurrencia)
@@ -96,20 +96,49 @@
 		- [**Lineales de orden 2, Homogeneas**](#lineales-de-orden-2-homogeneas)
 		- [**Lineales de orden 1, No Homogeneas**](#lineales-de-orden-1-no-homogeneas)
 		- [**Lineales de orden 1, No Homogeneas**](#lineales-de-orden-1-no-homogeneas-1)
-- [Congruencias en $\Z$](#congruencias-en-z)
+- [Unidad 7: Congruencias en $\\Z$](#unidad-7-congruencias-en-z)
 	- [Funcion de Euler](#funcion-de-euler)
 	- [Teorema de Fermat](#teorema-de-fermat)
 	- [Teorema de Euler-Fermat](#teorema-de-euler-fermat)
 	- [Ecuaciones Lineales de Congruencia](#ecuaciones-lineales-de-congruencia)
-- [Grupos](#grupos)
+- [Unidad 8: Grupos](#unidad-8-grupos)
 	- [OP cerradas](#op-cerradas)
 	- [Propiedades y elementos notables de una OP cerrada](#propiedades-y-elementos-notables-de-una-op-cerrada)
 	- [Operaciones combinada](#operaciones-combinada)
-	- [Grupos](#grupos-1)
+	- [Grupos](#grupos)
 	- [Propiedades de grupos.](#propiedades-de-grupos)
 		- [Dem prop 1: elemento neutro es unico](#dem-prop-1-elemento-neutro-es-unico)
 		- [Dem prop 2: el neutro es su propio simetrico](#dem-prop-2-el-neutro-es-su-propio-simetrico)
-- [Grafos](#grafos)
+		- [Dem prop 3: Propiedad involutiva del simetrico](#dem-prop-3-propiedad-involutiva-del-simetrico)
+		- [Dem prop 4: El simetrico de un elemento es unico](#dem-prop-4-el-simetrico-de-un-elemento-es-unico)
+		- [Dem prop 5:](#dem-prop-5)
+		- [Dem prop 6: Las ecuaciones $a\*x = b$ y $x \*a = b$ tienen solucion unica](#dem-prop-6-las-ecuaciones-ax--b-y-x-a--b-tienen-solucion-unica)
+		- [Dem prop 7: El unico elemento idempotente es el neutro](#dem-prop-7-el-unico-elemento-idempotente-es-el-neutro)
+		- [Dem prop 8:](#dem-prop-8)
+	- [Elementos Regulares](#elementos-regulares)
+	- [Producto Cartesiano entre Grupos](#producto-cartesiano-entre-grupos)
+	- [Subgrupos](#subgrupos)
+		- [Subgrupos espaciales](#subgrupos-espaciales)
+	- [Teorema de condicion necesaria y suficiente de subgrupos](#teorema-de-condicion-necesaria-y-suficiente-de-subgrupos)
+	- [Generadores. Grupos Ciclicos](#generadores-grupos-ciclicos)
+		- [Propiedades de los grupos $(Z\_n;+)$](#propiedades-de-los-grupos-z_n)
+	- [Relaciones de Congruencia](#relaciones-de-congruencia)
+		- [Teorema Fundamental de Compatiblidad](#teorema-fundamental-de-compatiblidad)
+		- [Congruencia Modulo un Subgrupo](#congruencia-modulo-un-subgrupo)
+			- [Propiedades:](#propiedades-3)
+		- [Indice de un subgrupo](#indice-de-un-subgrupo)
+		- [Teorema de Lagrange](#teorema-de-lagrange)
+		- [Subgrupo Normal](#subgrupo-normal)
+		- [Teorema: Grupo Cociente o Grupo Factor](#teorema-grupo-cociente-o-grupo-factor)
+	- [Homomorfismos de Grupos](#homomorfismos-de-grupos)
+		- [Propiedades de los Homomorfismos:](#propiedades-de-los-homomorfismos)
+		- [Clasificacion de Homomorfismo](#clasificacion-de-homomorfismo)
+		- [Nucleo de un homomorfismo](#nucleo-de-un-homomorfismo)
+			- [Propiedades del Nucleo](#propiedades-del-nucleo)
+		- [Imagen de un homomorfismo](#imagen-de-un-homomorfismo)
+		- [Preimagen o Imagen Reciproca](#preimagen-o-imagen-reciproca)
+	- [Grupos Isomorfos](#grupos-isomorfos)
+- [Unidad 9: Grafos](#unidad-9-grafos)
 	- [Representacion matricial de Grafos](#representacion-matricial-de-grafos)
 	- [Caminos y  Ciclos en Grafos](#caminos-y--ciclos-en-grafos)
 	- [Caminio y Ciclo de Euler](#caminio-y-ciclo-de-euler)
@@ -123,17 +152,18 @@
 	- [Desconexion de grafos](#desconexion-de-grafos)
 	- [Grafos Planos](#grafos-planos)
 	- [Isomorfismos](#isomorfismos)
+		- [Condiciones necesarias (no son suficientes):](#condiciones-necesarias-no-son-suficientes)
 	- [Digrafos](#digrafos)
 	- [Camino Simple y Camino Elemental en Digrafo](#camino-simple-y-camino-elemental-en-digrafo)
 	- [Funcion grado en un digrafo](#funcion-grado-en-un-digrafo)
-		- [Propiedades](#propiedades-3)
+		- [Propiedades](#propiedades-4)
 	- [Representacion Matricial de Digrafos.](#representacion-matricial-de-digrafos)
 	- [Grafo asociado a un Digrafo](#grafo-asociado-a-un-digrafo)
 	- [Conexidad en Digrafos](#conexidad-en-digrafos)
 	- [Camino de Euler y Hamilton en digrafos](#camino-de-euler-y-hamilton-en-digrafos)
 	- [Isomorfismos en Digrafos](#isomorfismos-en-digrafos)
 - [Arboles](#arboles)
-	- [Propiedades](#propiedades-4)
+	- [Propiedades](#propiedades-5)
 	- [Bosques](#bosques)
 	- [Arboles Dirigidos](#arboles-dirigidos)
 		- [Definiciones:](#definiciones-1)
@@ -141,7 +171,7 @@
 	- [Arbol $n$-ario](#arbol-n-ario)
 	- [Recorridos de Arboles](#recorridos-de-arboles)
 	- [Representacion de expresiones algebraicas](#representacion-de-expresiones-algebraicas)
-- [Lenguajes](#lenguajes)
+- [Unidad 10: Lenguajes](#unidad-10-lenguajes)
 	- [Clausura de Kleene de un Alfabeto](#clausura-de-kleene-de-un-alfabeto)
 	- [Concatenacion de palabras.](#concatenacion-de-palabras)
 	- [Palindromo](#palindromo)
@@ -345,7 +375,6 @@ ACLARACIONES:
 	* $A_i \cap A_j = \empty \forall i \neq j$
 	* $\cup A_i = A$
 
-continuara?...
 
 ## **Producto Cartesiano**
 
@@ -485,7 +514,7 @@ $\begin{aligned}
 ![Partes de la division](https://eloviparo.files.wordpress.com/2011/10/division.jpg)
 
 > Dados dos numeros $D$ y $d$, con $d\neq0$, existen y son unicos otros dos enteros $c$ y $r$ tales que: 
-> $D=c\cdot d+r$ y $0\le r \le \lvert d\rvert$
+> $D=c\cdot d+r$ y $0\le r < \lvert d\rvert$
 
 * En divisiones de Dividendo negativo es provable que al cociente le tenga que sumar 1 al numero que usaria de costubre porque el **resto no puede ser negativo**.
 
@@ -507,14 +536,14 @@ $\begin{aligned}
   3. Cambiar de signo al cociente, el resto queda igual
 
 * Si el cociente es resultado de $D/d$ es negativo el cociente se trunca hacia ariba, osea si es -39.78 el cociente sera -40
-* De lo contrario si el resultado de $D/d$ el cociente se trunca hacia abajo $\lfloor$
+* De lo contrario si el resultado de $D/d$ el cociente se trunca hacia abajo
 
 ## **Relacion de Divisibilidad**
 
 > Sean: $a,b \in \Z:$ 
 > 
 > $$
-		a\vert b \iff \exist k \in \Z / b = k \cdot a
+		a\vert b \iff \exist \,k \in \Z / b = k \cdot a
 	$$
 
 ## **Propiedades**
@@ -681,11 +710,11 @@ Esto solo sucede si y solo si el mcd$(a,b) = 1$.
 
 * Dominio de una Relacion:
 
-	> Sea $R: A\to B: \text{Dom}(R) = \{x \in A/\exists y \in B \land (x;y)\in R \}$
+	> Sea $R: A\to B: \text{Dom}(R) = \{x \in A/\exists \, y \in B \land (x;y)\in R \}$
 
 * Imagen de una Relacion:
 
-	> Sea $R: A\to B: \text{Im}(R) = \{y \in B/\exists x \in A \land (x;y)\in R \}$
+	> Sea $R: A\to B: \text{Im}(R) = \{y \in B/\exists \, x \in A \land (x;y)\in R \}$
 	
 * Relacion Inversa o Reciproca:
   
@@ -753,15 +782,14 @@ $$
 
 	$A\cdot B = C$ Donde $A\in\{0,1\}^{n\times m}, B\in\{0,1\}^{m\times p}, C\in\{0,1\}^{n\times p}$.
 
-	$$ 
-	\forall i: 1\ldots n: \forall j: 1\ldots m: c_{ij} = \bigvee^m_{k=1}a_{ij} \land b_{ij}
-	$$ 
+	$\forall i: 1\ldots n: \forall j: 1\ldots m: c_{ij} = \bigvee^m_{k=1}a_{ij} \land b_{ij}$ 
 
 4. Traspuesta de una matriz:
 
 	$A^t = B$ Donde $A\in\{0,1\}^{n\times m}, B\in\{0,1\}^{n\times m}$.
 
 	$\forall i: 1\ldots n: \forall j: 1\ldots m: b_{ij} =a_{ji}$ 
+
 
 
 5. Complemento de una matriz:
@@ -877,6 +905,17 @@ Sea una relacion binaria $R:A\to A:$
 
 
 **Nota:** Cuando son elementos finitos lo mejor es realizar la matriz, pero cuando son elementos infinitos tendremos que recurrir a la defincion.
+
+#|Nombre|Propiedad
+--|:---:|:---:
+1 | Reflexiva| $I \leq M(R)$
+2 | A-Reflexiva| $I\land M(R) = N$
+3 | Simetrica| $M(R) = M(R)^t$ 
+4 | A-Simetrica| $M(R) \land M(R)^t = N$
+5 | Antisimetrica|$M(R) \land M(R)^t \leq I$
+6 | Transitiva| $M(R)\cdot M(R)\leq M(R)$
+
+
 
 ## Relacion de Conectividad
 
@@ -1280,7 +1319,7 @@ son la representacion de una funcion booleana.
 5. {NOR}
    1. $\overline{x} = \overline{x+x}$
 
-# Relaciones de Recurrencia
+# Unidad 6: Relaciones de Recurrencia
 
 > $$f:\N\to \R/\forall n\in \N:f(n)=a_n$$
 
@@ -1313,11 +1352,11 @@ $\begin{aligned}
 
 Formula:
 
-$$a_n=ka_{n-1} \quad\small \text{ siendo } k \small\text{ una cte real no nula}$$
+$$a_n=k\,a_{n-1} \quad\small \text{ siendo } k \small\text{ una cte real no nula}$$
 
 Datos:
 
-* $a_0:$ Es el valor de $a$ para $n=0$
+* $a_0:$ Es el valor de $a_n$ para $n=0$
 
 Forma no recursiva: 
 
@@ -1374,7 +1413,7 @@ $Ka_n$ | $Ba_n$
 
 **ACLARACION**: Si aparece un termino como $Kt^n$ la solucion particular sera $Bt^n$
 
-Si no funka la solucion provable hay que multiplicarla por n hasta que funke, osea se amuenta el grado del polinomio.
+Si no funka la solucion probable hay que multiplicarla por n hasta que funke, osea se amuenta el grado del polinomio.
 
 estas soluciones provables se reemplazan en la ecuacion y luego esta ecuacion se resuelve como las anteriores.
 
@@ -1397,7 +1436,7 @@ Formula:
 $$ c_n a_n + c_{n-1} a_{n-1} + c_{n-2} a_{n-2} = f(n) \quad \rArr \quad  a_n = a_{nH} + a_{nP} $$
 
 
-# Congruencias en $\Z$
+# Unidad 7: Congruencias en $\Z$
 
 Congruencia modulo n
 
@@ -1447,7 +1486,7 @@ Osea me devuelve cuantos numeros coprimos hay hasta el numero $n$
 
 > $$\text{Si}: a\cdot c\equiv b\cdot c(n)\land \text{mcd}(c,n)=1 \\\text{Entonces }a\equiv b(n)$$
 
-# Grupos
+# Unidad 8: Grupos
 
 ## OP cerradas
 
@@ -1467,7 +1506,7 @@ Tambie se llama ley de cierre o lci
 	> $\forall a,b\in A: a*b=b*a$
 	* matricialmente la matriz debe ser simetrica
 * Elemento neutro:
-  > $\exist e\in A: \forall a\in A: e*a = a$
+  > $\exist e\in A: \forall a\in A: e*a = a*e = a$
   * matricialmente tiene que aparecer el numero correspondiente a la columna o a la fila en toda dicha col o fila. Respeta al otro numero
 * Elemento simetrico:
 	> $a\prime\in A/ a*a\prime=a\prime*a= e$
@@ -1493,6 +1532,8 @@ Se tiene que verificar si:
 
 ## Grupos
 
+Sea $A\neq \varnothing$ y $*$ es una operacion binaria definida en $A$:
+
 1. Si $*$ es op. cerrada $\rArr (A;*)$ es **Grupoide**
 2. Si ademas $*$ es asociativa  $\rArr (A;*)$ es **Semigrupo**
 3. Si ademas $*$ tiene neutro $\rArr (A;*)$ es **Monoide**
@@ -1502,7 +1543,7 @@ Se tiene que verificar si:
 
 ## Propiedades de grupos.
 
-1. el elemento neutro es unioco
+1. el elemento neutro es unico
 2. el eutro es su propio simetrico $e = e\prime$
 3. propiedad involutiva del simetrico $\forall a\in A: (a\prime)^\prime= a$
 4. el simetrico de un elemetno es unico
@@ -1520,6 +1561,8 @@ $$ \forall x\in A: \;x*e_1 = x \\ e_2*e_1=e_2 \\
 
 ### Dem prop 2: el neutro es su propio simetrico
 
+> $$e' = e$$
+
 $$
   \forall x\in A \rArr x*e = e*x=x \\
 	e*e = e*e = e \land a* a^\prime = a^\prime *a = e \\
@@ -1527,11 +1570,380 @@ $$
 
 $$
 
+### Dem prop 3: Propiedad involutiva del simetrico
+
+> $$\forall a\in A: (a')' = a$$
+
+Por ser $(A;*)$ un grupo: $\forall x \in A:$
+
+$$
+\forall x\in A: \exist x' \in A: (x*x' = e \land x'*x = e)
+$$
+
+Como $a'\in A$, debe tener un simetrico que se denota (a')'.
+
+$$a'*(a')' = e$$
+
+Operamos con $a$ en ambos miembros:
+
+$$a*(a'*(a')') = a * e $$
+
+Luego por propiedad asociativa:
+
+$$
+(a*a')*(a')' = a * e \\
+e * (a')' = a * e \\
+(a')' = a
+$$
+
+### Dem prop 4: El simetrico de un elemento es unico
+
+Supongamos que $x\in A$ posee dos elementos simetricos $x'$ y $x''$ se cumplen:
+
+$$x\in A,\exist\, x'\in A\rArr x*x'=x'*x=e$$
+$$x\in A,\exist\, x''\in A\rArr x*x''=x''*x=e$$
+
+Partimos de $x''$:
+
+$$
+x'' = x'' * e =^\text{por H} x'' * (x * x') = ^\text{por asociativ.} (x'' * x) * x' = e * x' = x'\\
+x'' = x'
+$$
+
+### Dem prop 5: 
+
+> $\forall a,b\in A:(a*b)' = b'*a'$
+
+$$
+(a*b)*(a*b)'= e\rArr a*b*(a*b)'= e\\
+a' * (a*b*(a*b)') = a' * e\\
+(a'*a) * b * (a*b)'= a' * e\\
+e * b * (a*b)'= a' * e\\
+b * (a*b)'= a' \\
+b' * (b * (a*b)')= b' * a' \\
+(b' * b) * (a*b)'= b' * a' \\
+e * (a*b)' = b'*a'\\
+(a*b)' = b'*a'
+$$
+
+### Dem prop 6: Las ecuaciones $a*x = b$ y $x *a = b$ tienen solucion unica
+
+$$
+a*x = b \\
+a' * (a*x) = a'*b\\
+(a' * a)*x = a'*b\\
+e*x = a'*b\\
+x = a'*b
+$$
+
+### Dem prop 7: El unico elemento idempotente es el neutro
+
+$$
+a*a = a\\
+(a*a)*a' = a*a'\\
+a*(a*a') = a*a'\\
+a*e = e\\
+a = e
+$$
+
+### Dem prop 8: 
+
+> $\forall a,b \in A: a' = b \rArr b' = a$
+
+Si el elemento simetrico ee a es b, cumple $a*b = b * a = e$
+
+$$
+b' = b'*e = b' * (b*a) = (b' * b)*a = e*a = a
+$$
+
+## Elementos Regulares
+
+Sea $(A;*)$ un semigrupo con neutro.
+
+$$
+a\in A\text{ es regular a izquierda} \lrArr a*x = a*y = x=y
+$$
+
+$$
+a\in A\text{ es regular a derecha} \lrArr x*a = y*a = x=y
+$$
+
+> El elemento $a\in A$ es regular si es regular a izquierda y a derecha
 
 
+> En un grupo dodos los elementos son regulares
+
+$$
+a * x = a * y\\
+a' * a * x = a' * a * y\\
+(a' * a )* x = (a' * a) * y\\
+e*x=e*y\\
+x=y
+$$
+
+> Sea $(A;*)$ un semigrupo con neutro. El conjunto de inversibles de $A$ es:
+>
+> $$\text{INV}(A) = \{a\in A / a'\in A\} $$
+
+## Producto Cartesiano entre Grupos
+
+> Sean $(G_1;*_1)$ y $(G_2;*_2)$ dos grupos con neutros $e_1$ y $e_2$ respectivamente:
+>
+> El conjunto $G_1\times G_2$ se define de la siguiente operacion $*$ tal que:
+>
+> $$(a;b) * (c;d) = (a*_1 c; b*_2 d)$$
+>
+> Entonces:
+>
+> $(G_1\times G_2;*)$ es grupo y se denomina GRUPO PRODUCTO
 
 
-# Grafos
+* Si $*_1$ y $*_2$ son conmutativas entonces $*$ tambien es conmutativa
+
+## Subgrupos
+
+> Sea $(G;*)$ un grupo y sea $H\neq\varnothing\;\; H\subseteq G$
+>
+> Si $(H;*)$ es grupo entonces $H$ es subgrupo de  $G$
+
+### Subgrupos espaciales
+
+> $(\{e\};*)$ es subgrupo trivial de $(G;*)$
+>
+> $(G;*)$ es subgrupo impropio de $(G;*)$
+
+* el resto de subgrupos se denomina subfgupos propios
+
+
+## Teorema de condicion necesaria y suficiente de subgrupos
+
+> Sea $(G;*)$ un grupo.
+>
+> $$ H\text{ es subgrupo de } G \lrArr\begin{cases}
+	H\neq \varnothing\\
+	H\sube G\\
+	\forall a,b\in H\rArr a*b'\in H
+\end{cases} $$
+
+
+> Si $(G;*)$ es un grupo y $H$ es un subconjunto finito no vacio, entonces $H$ es subgrupo de $G$ sii $*$ es cerrada en $H$
+
+## Generadores. Grupos Ciclicos
+
+> Sea $(G;*)$ un grupo y $a\in G$. Llamamos **Subgrupo ciclico de G generado por a** al siguiente conjunto: $<\!a\!> = \{a^n/n\in \Z\}$ 
+
+> Un grupo $(G;*)$ es ciclico $\lrArr \exist a \in G$ tal que $<\!a\!> = G$ 
+
+> 1. Todo grupo ciclico es abeliano
+> 2. Todo subgrupo de un grupo ciclico es ciclico
+
+> Sea $(G;*)$ un grupo y $a\in G$
+>
+> El orden de un elemento es el cardinal del subgrupo que genera. 
+> 
+> El orden de un subgrupo es el orden de su generador, o bien el cardinal del subgrupo
+
+> Dado un grupo $(G;*)$ con neutro $e$, entonces el conjunto de todos los subgrupos puede ser ordenado por la inclusion.
+
+> Si $G$ es finito, entonces: (subgrupos de $G;\sube\,$) es una Red con primer elemento, el subgrupo trivial, y ultimo elemento, el subgrupo impropio.
+
+### Propiedades de los grupos $(Z_n;+)$
+
+> * Todos los grupos $(Z_n;+)$ son ciclicos.
+> * Sus generadores son: $\overline{k}/\text{mcd}(k,n)=1, 1\leq k\leq n-1$
+> * La cantidad de subgrupos de $\Z_n$ es: $|D_n|$
+> * Cada subgrupo tiene por cardinal a uno de los elementos de $D_n$
+> * La red de subgrupos es isomorfa a $(D_n;|\,)$
+
+## Relaciones de Congruencia
+
+> Sea $(G;*)$ un semigrupo con neutro $e$
+> 
+> Sea $\sim$ una relacion de equivalencia en $G$.
+>
+> $$\sim\text{ es compatible a izquierda con }*\lrArr \forall a,b,x\in G: a\sim b\rArr x*a\sim x*b$$
+> $$\sim\text{ es compatible a derecha con }*\lrArr \forall a,b,x\in G: a\sim b\rArr a*x\sim b*x$$
+
+
+> La relacion $\sim$ es compatible con $*$ (o es de congruencia) $\lrArr$ es compatible a derecha y a izquierda.
+
+> Las relaciones de congruencia generalizan las propiedades de la congruencia modulo $n$ y pueden recibir otros nombres como *"compatible"* respecto de la operacion de grupo o *"estable"*
+
+> $\sim$ es compatible con $* \lrArr \forall a,b,c,d\in G:a\sim b\land c\sim d\rArr a*c\sim b*d$
+
+### Teorema Fundamental de Compatiblidad
+
+> Sea $(G;*)$ un semigrupo con neutro $e$ y $\sim$ una relacion de equivalencia compatible con $*$ Entonces el conjunto cociente $(G/\sim;\bar*)$ es un semigrupo con neutro, siendo la $\bar*$ la siguiente $\bar a \bar* \bar b=\overline{a*b}$
+
+> Si $(G;*)$ es grupo entonces $(G/\sim\,;\bar*)$ tambien es grupo.
+>
+> Si $(G;*)$ es abeliano entonces $(G/\sim\,;\bar*)$ tambien es abeliano.
+
+> *El teorema garantiza que si la relacion de equivalencia es cmpatible, la estructura del conjunto cociente es la misma que la del conjunto original. O sea, se "traspasa" la estructura y las propiedades estructurales.*
+
+### Congruencia Modulo un Subgrupo
+
+> Sea $(G;*)$ un grupo y $H$ un subgrupo de $G$
+>
+> Definimos la siguiente relacionen $G$:
+>
+> $$a\equiv_d b(H)\lrArr a*b'\in H $$
+>
+> *se lee: $a$ es congruente a derecha con $b$ modulo $H$*
+
+Demostraciones
+
+1. Reflexiva:
+
+	$$ a*a'=e\land e\in H \rArr a\equiv_d a(H)$$
+2. Simetrica:
+
+	$$a\equiv_d b(H)\lrArr a*b'\in H\lrArr (a*b')'\in H$$
+
+	$$\lrArr b*a'\in H\lrArr b\equiv_d a(H)$$
+3. Transitiva:
+
+	$$a\equiv_b(H)\land b\equiv_c(H)\lrArr a*b'\in H\land b*c'\in H\lrArr$$
+
+	$$\lrArr(a*b')*(b*c')\in H\lrArr a*(b*b')*c'\in H\lrArr$$
+
+	$$\lrArr a*e*c'\in H\lrArr a*c'\in H\lrArr a\equiv_d c(H)$$
+
+Por lo tanto es una relacion de **equivalencia**
+
+> Sea $(G;*)$ un grupo y $H$ un subgrupo de $G$
+>
+> Definimos la siguiente relacionen $G$:
+>
+> $$a\equiv_i b(H)\lrArr a'*b\in H $$
+>
+> *se lee: $a$ es congruente a izquierda con $b$ modulo $H$*
+
+#### Propiedades:
+
+1. La congruencia modulo $H$, tanto a derecha como izquierda, es una relacion de equivalencia.
+2. Si $(G;*)$ es un grupo abeliano, entonces la congruencia a derecha coincide con la congruencia a izquierda.
+3. Es un caso particular de la congruencia modulo $H$, considerando $H=n\Z=\{x\in\Z/x=nk,k\in\Z\}$
+
+	$$a\equiv b(H)\lrArr a*b'\in H\lrArr a+(-b)\in H\lrArr a-b =nk\lrArr n|a-b\lrArr a\equiv b(n)$$
+4. La clase de equivalencia de cualquier elemento de $a$ de $G$ es:
+
+	$$\overline{a_d} = H*a\text{ en la relacion de congruencia a derecha}$$
+	$$\overline{a_i} = a*H\text{ en la relacion de congruencia a izquierda}$$
+
+5. $|H| = |H*a| = |a*H|$
+6. La relacion de congruencia modulo $H$ (tanto a derecha como a izquierda) por ser de equivalencia, produce una particion en el conjunto.
+
+### Indice de un subgrupo
+
+> Sea $(G;*)$ un grupo y $H$ un subgrupo de $G$
+>
+> El indice de $G$ en $G$ es la cantidad de clases de equivalencia modulo $H$.
+>
+> Se indica $[G:H]$
+
+### Teorema de Lagrange
+
+> Sea $(G;*)$ un grupo de orden finito $n$ y $H$ un subgrupo de $G$
+>
+> Entonces, el orden de $G$ divide al orden de $G$
+
+(orden es cantidad de elementos)
+
+### Subgrupo Normal
+
+> Sea $(G;*)$ un grupo con neutro $e$ y $H$ un subgrupo de $G$
+>
+> $H$ es un subgrupo **normal** $\lrArr$ las clases a derecha coinciden con las clases a izquierda
+
+### Teorema: Grupo Cociente o Grupo Factor
+
+> Sea $(G;*)$ un grupo y $H$ un subgrupo normal de $G$
+>
+> Entonces: 
+>
+> * $(G/H,\bar * )$ es grupo siendo $\bar a\bar *\bar b=\overline{a*b}$
+> * El cardinal de $G/H$ es $[G:H]$
+
+* Este grupo se llama grupo cociente de $G$ modulo $H$
+
+
+## Homomorfismos de Grupos
+
+> $(G_1;*_1)$ y $(G_2;*_2)$ dos grupos con neutros $e_1$ y $e_2$ respectivamente:
+>
+> $$f:G_1\to G_2\textbf{ es homomorfismo}\lrArr\begin{cases}
+	f\text{ esfuncion}\\
+	\forall a,b\in G_1:f(a*_1b) = f(a)*_2f(b)
+\end{cases}$$
+
+### Propiedades de los Homomorfismos:
+
+> Sea $f:(G_1;*_1)\to (G_2;*_2)$ un homomorfismo de grupos
+>
+> Entonces:
+>
+> 1. $f(e_1) = e_2$
+> 2. $\forall a\in G_1: f(a') = [f(a)]'$
+
+### Clasificacion de Homomorfismo
+
+> Sea $f:G_1\to G_2$ un homomorfismo de grupos:
+>
+> * Si $f$ es inyectiva, $f$ se llama **monomorfismo**
+> * Si $f$ es sibreyectiva, $f$ se llama **epimorfismo**
+> * Si $f$ es biyectiva, $f$ se llama **isomorfismo**
+> * Si $G_1 = G_2$, $f$ se llama **endomorfismo**
+> * Si $G_1 = G_2$ y $f$ es biyectiva, $f$ se llama **automorfismo**
+
+
+### Nucleo de un homomorfismo
+
+> Sea $f:G_1\to G_2$ un homomorfismo de grupos.
+>
+> Se define: $\text{Nu}(f) = \{x\in G_1 / f(x)= e_2\}$
+
+
+#### Propiedades del Nucleo
+
+> Sea $f:(G_1;*_1)\to(G_1;*_1)$ un homomorfismo de grupos. Entonces:
+>
+> $$(\text{Nu}(f);*_1)\text{ es subgrupo de }(G_1; *_1)$$
+
+> Sea $f:(G_1;*_1)\to(G_1;*_1)$ un homomorfismo de grupos. Entonces:
+>
+> $$ \text{Nu}(f)=\{e_1\}\lrArr f \text{ es inyectiva} $$
+
+
+### Imagen de un homomorfismo
+
+> Sea $f:(G_1;*_1)\to(G_1;*_1)$ un homomorfismo de grupos. 
+>
+> Se define: $\text{Im}(f) = \{y\in G_2/\exist x\in G_1\land f(x)=y\}$
+>
+> $$ (\text{Im}(f);*_2) \text{ es subgrupo de } (G_2;*_2)$$
+
+### Preimagen o Imagen Reciproca
+
+> Sea $f:G_1\to G_2$ un homomorfismo de grupos, $B\sube G_2$
+>
+> Se define:
+> $$f^{-1}(B)=\{x\in G_1/f(x)\in B\}$$
+
+## Grupos Isomorfos
+
+> Sean $(G_1;*_1)$ y $(G_2;*_2)$ dos grupos.
+> $$G_1\approx G_2 \lrArr \text{ existe un isomorfismo entre ellos}$$ 
+>
+> Se lee son *"isomorfos"*.
+>
+> Un isomorfismo es un homomorfismo biyectivo.
+
+> Los grupos isomorfos tienen las mismas **propiedades estructurales**, o sea deben compartir la conmutatividad, cardinalidad de los conjuntos subyacentes, cantidad de generadores, ser o no ciclico, etc...
+
+> $$ (\Z_m\times\Z_n;+) \text{ es isomorfo a } (\Z_{n\times m}; \bar +)\lrArr \text{mcd}(m,n)=1 $$
+
+# Unidad 9: Grafos
 
 > Un Grafo es una terna $\quad G=(V;A;\phi)\\$ Donde:
 > * $V$ : es el conjunto de vertices $(V\neq \varnothing)$
@@ -1611,9 +2023,14 @@ $$
 ## Desconexion de grafos
 
 * Itsmo o punto de corte: es aquel vertice que al suprimirlo forma un grafo no conexo.
+	$$ v\in V\text{ es itsmo }\lrArr \sim Gv\text{ es no conexo} $$
+
 * Puente: es aquel arista  que al suprimirla forma un grafo no conexo.
+	$$ a\in A\text{ es puente}\lrArr\,  \sim Ga\text{ es no conexo}$$
 * conjunto desconectante: Es un conjunto de aristas que alsuprimirlas desconectan el grafo.
+	$$ B\sube A\text{ es desconectante }\lrArr\, \sim G_B\text{ es no conexo} $$
 * Conjunto de Corte: es el conjunto de aristas necesariamente se deben suprimir para formar un grafo no conexo, osea no se suprimen aristas de mas.
+	$$ B\sube A\text{ es de corte }\lrArr\, B\text{ es desconectante y ademas } \forall C\sub B, C\text{ no es desconectante}$$
 * Conectividad: es el menor numero de vertices cuya supresion desconecta al grafo.
 
 
@@ -1625,18 +2042,43 @@ $$
 
 ## Isomorfismos
 
-Para que dos grafos sean isomorfos sus matrices de incidencia deben ser isomorfas.
+> Dados dos grafos: $G_1 = (V_1;A_1;\varphi_1)$ y $G_2 = (V_2;A_2;\varphi_2)$
+>
+> Se dice que son **isomorfos** sii existen dos funciones biyectivas
+>
+> $$ f:V_1\to V_2\text{ y } g:A_1\to A_2\text{ tales que: }\forall a\in A_1:\varphi_2(g(a))=f(\varphi_1(a)$$
+
+> Si no hay aristas paralelas, entonces es suficiente
+>
+> $$ \forall a,v\in V_1:\{u,v\}\in A_1\rArr \{f(u),f(v)\}\in A_2$$
+>
+> Esto significa que si en el primer grafo hay una arista entre dos vertices, los correspondientes a estos vertices en el segundo grafo tambien deben estar unidos por una arista.
+
+Dos grafos son isomorfos cuando tienen la misma estructura, es decir, sus vertices estan relacionados de igual forma aunque esten dibujados de manera distinta.
+
+
+### Condiciones necesarias (no son suficientes):
+
+* Deben tener la misma cantidad de vertices
+* Deben tener la misma cantidad de aristas
+* Deben tener los mismos grados todos los vertices
+* Deben tener caminos de las mismas longitudes
+* Si uno tiene ciclos, el otro tambien debe tenerlos.
+
+> *Para que dos grafos sean isomorfos sus matrices de incidencia deben ser isomorfas.*
+
+Basicamente hay que armar las matrices de incidencia, reacomodarlos segun creamos la correspondencia, y ahi ver si las matrices son isomorfas.
 
 ## Digrafos
 
 > Un Digrafo es una terna $\quad G=(V;A;\delta)\\$ Donde:
 > * $V$ : es el conjunto de vertices $(V\neq \varnothing)$
 > * $A$ : es el conjunto de aristas dirigidas o arcos.
-> * $\delta$ es la funcion de incidencia $\delta : A\to V\times V\quad$ donde $V\times V$ es un par ordenado, $v_i$ estremo inicial y $v_j$ extremo final.
+> * $\delta$ es la funcion de incidencia $\delta : A\to V\times V\quad$ donde $(v_i;v_j)$ es un par ordenado, $v_i$ estremo inicial y $v_j$ extremo final.
 
 ## Camino Simple y Camino Elemental en Digrafo
 
-> * Camino simple: aquel camino en el que todos los vertices osn distintos.
+> * Camino simple: aquel camino en el que todos los vertices son distintos.
 > * Camino elemental: aquel camino en el que todas las aristas son distitas.
 
 ## Funcion grado en un digrafo
@@ -1644,7 +2086,7 @@ Para que dos grafos sean isomorfos sus matrices de incidencia deben ser isomorfa
 > * Grado Positivo: cantidad de arcos o aristas que "entran" al vertice. $g^+(v)$
 > * Grado Negativo: cantidad de arcos o aristas que "salen" del vertice. $g^-(v)$
 > * Grado Total: suma de los grados positivo y negativo. $g(v)$
-> * Grado Neto: diferencia entre el grado positivo y el negativo. $g_N(v)$
+> * Grado Neto: diferencia entre el grado positivo y el negativo (el resltado puede ser negativo). $g_N(v)$
 
 ### Propiedades
 
@@ -1662,7 +2104,10 @@ Para que dos grafos sean isomorfos sus matrices de incidencia deben ser isomorfa
   * Es una matriz booleana.
   * Es una martiz cuadrada de $n\times n$ siendo $n$ la cantidad de vertices
 * Matriz de Incidencia: es la matriz que representa entre que vertices incide una arista.
-  * Es una matriz que toma valores de {0,1,-1}.
+  * Es una matriz que toma valores de $\{0,1,-1\}$.
+    * $1$ cuando sale del vertice
+	* $-1$ cuando entra al vertice
+	* $0$ cuando no tiene relacion con el vertice
   * Es una matriz de $n\times m$ donde $n$ (las filas) son los vertices y $m$ (las columnas) son las aristas.
 
 ## Grafo asociado a un Digrafo
@@ -1688,6 +2133,9 @@ es la misma wea que en los grafos solo que hay que tener cuidado con la direccio
 
 > Un arbol es un grafo conexo sin ciclos.
 
+> Condicion necesaria y suficiente: Un arbol es un grafo en el cual entre todo par de vertices existe un unico camino simple
+
+
 ## Propiedades
 
 1. Al agregar una arista entre dos vertices de un arbol, deja de ser arbol
@@ -1705,7 +2153,7 @@ es la misma wea que en los grafos solo que hay que tener cuidado con la direccio
 
 > Un digrafo simple es un arbol dirigido si su grafo asociado es un arbol.
 
-> **Grafo Dirigido con raiz**: es un arbol en el cual el grado entrante (positivo) de cada vertice es igual a 1, salvo un unico verticve con grado positivo igual a cero llamado raiz.
+> **Arbol Dirigido con raiz**: es un arbol en el cual el grado entrante (positivo) de cada vertice es igual a 1, salvo un unico verticve con grado positivo igual a cero llamado raiz.
 
 ### Definiciones:
 
@@ -1751,7 +2199,7 @@ se puede representar una suma como un arbol, y asi con el resto de operaciones.
 * Notacion polaca inversa: Post-orden
 
 
-# Lenguajes
+# Unidad 10: Lenguajes
 
 **Alfabeto**
 
@@ -1869,11 +2317,22 @@ Literalmente concatenar palabras, se simboliza como $w_3=w_1\cdot w_2$ siendo $w
 * $P$ es finito y $P\sub (V^+-V_t^*)\times V^*$ sinedo $V=V_n\cup V_t$
 * $S$ pertenece a $V_n$
 
+* $P$ es finito y $P\sub (V^+-V_t^*)\times V^*$ sinedo $V=V_n\cup V_t$
+  * $V^*$ Sin restriccion
+  * $V^+ - V_t^*$ Sin restriccion
+
 Aclaraciones:
 
 * las no terminales son las variables que generan las palabras
 * terminales son las letras con las que se forman las palabras
-* $P$ 
+
+* El lenguaje generado por la gramatica $G$ se llama $L(G)$
+
+
+a^n a c^p b a  b^n
+
+p>=0
+n>=0
 
 ## Gramaticas equivalentes
 
@@ -1888,7 +2347,19 @@ Tipo|Nombre|Producciones
 2| Independiente del Contexto| $X\to Y$ donde $X\in V_n$
 3| Regular | $X\to Y$ donde $X\in V_n \\ Y$ puede ser $Vt,t$ o $\lambda$ (derecha) $\\ Y$ puede ser $tV,t$ o $\lambda$ (izquierda)
 
-Un lenguaje puede estar generado por **distintas gramaticas** de **distinto tipo** para un mismo lenguaje, pero el **tipo del lengua** sera el de la **gramatica de mayor tipo**.
+Oservaciones:
+
+* Un lenguaje se dice de tipo $K$ sii existe una gramatica detipo $k$ que la genere.
+* Casi todos los lenguajes de programacion son de tipo 2
+* $L_3\sube L_2\sube L_1\sube L_0$
+
+
+> Un lenguaje puede estar generado por **distintas gramaticas** de **distinto tipo** para un mismo lenguaje, pero el **tipo del lenguaje** sera el de la **gramatica de mayor tipo**.
+
+> Cada gramatica genera un unico lenguaje
+> 
+> Cada lenguaje puede ser generado por muhas gramaticas.
+
 
 ```graphviz
 digraph g{
