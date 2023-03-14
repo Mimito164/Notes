@@ -422,7 +422,10 @@ Preparativos previos:
 
 3. Colocar un "Array de Pcbs" para ello usar el comando <kbd>p</kbd> > "Embedded Board Array/Panelize"
 
-  <img src="./Fotos/panelize.png" style="display:block;margin:auto">
+  
+
+  <img src="./Fotos/Panelize.png" style="display:block;margin:auto">
+
 
 4. Presionar la tecla <kbd>Tab</kbd> para entrar a las configuraciones, en la seccion "Pcb Document" agregar el archivo pcb de nuestro proyecto (puede ser que este menu ocupe poco espacio y no se vean las opciones como lo muestra la imagen para mejorar, para solucionar esto basta con agrandar este menu ).
 
