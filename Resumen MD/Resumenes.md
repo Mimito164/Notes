@@ -365,7 +365,7 @@ $X \in P(A) \Leftrightarrow X \subseteq A$
 
 ACLARACIONES: 
 
-- $`|P(A)| = 2^{|A|}`$
+- $|P(A)| = 2^{|A|}$
 - $P(\empty) = {\empty} (2^0 = 1 \therefore |P(\empty)| = 1 )$
 
 ## **Particion de un conjunto**
@@ -399,8 +399,6 @@ ACLARACIONES:
 En un caso de demostracion se compone de la siguiente manera, se tiene una o varias hipotesis y una sola tesis, **LAS HIPOTESIS SE CONSIDERAN CIERTAS**, y es gracias a esto que vamos a poder reemplazar alguna expresion de la tesis por una de la hipotesis
 
 Caso particular: Si tengo que demostrar una igualdad ( $=$ ) debo hacer la demostracion en ambos sentidos, es decir, partir desde el miembro izquierdo, desarrollar hasta llegar al derecho y viceversa. EN ALGUNOS CASOS, las propiedades se pueden aplicar en ambos sentidos, pero esto no siempre se cumple, para esos casos solo queda volver a empezar el desarrollo desde cero.
-
-contiuara...
 
 ## **Demostraciones con Partes de Conjuntos**
 
