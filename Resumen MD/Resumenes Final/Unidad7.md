@@ -4,7 +4,8 @@ Congruencia modulo n
 
 > $$\text{En }\Z: \quad aRb \Leftrightarrow a\equiv b(n)\Leftrightarrow n\vert a-b$$
 
-* Propiedad:
+> $$ \overline{x} =\{y\in Z/y=nk+x\quad \text{con }k\in \Z \}$$
+> $$ \Z_n=\{\overline{0},\overline{1},\overline{2},\ldots,\overline{n-1}\}$$
 
 > $$\forall x,y\in \Z : \text{Si } x\in\overline{a}(n)\land y\in\overline{b}(n) \rArr x+y \in \overline{a+b}(n)$$
 
@@ -18,11 +19,13 @@ Osea me devuelve cuantos numeros coprimos hay hasta el numero $n$
 
 > 1. Si $p$ es un numero primo, entonces: $\phi(p)=p-1$
 > 2. Si n es un numero natural y p es numero primo:
-> $$ \phi(p^n) = p^n\cdot \left(1-\frac{1}{p}\right) \quad \phi(p^n) =p^{n-1}(p-1) $$
+> $\phi(p^n) = p^n\cdot \left(1-\frac{1}{p}\right) \quad \phi(p^n) =p^{n-1}(p-1)$
 > 3. 	Si $n,m\in\N \text{ y mcd}(n,m)=1:\phi(n\cdot m)=\phi(n)\cdot \phi(m)$
 > 4. $$ \phi(n)= n\cdot \left(1-\frac{1}{p_1}\right)\cdot \left(1-\frac{1}{p_2}\right)\cdot\cdots\cdot\cdot \left(1-\frac{1}{p_r}\right) $$
 
 ## Teorema de Fermat
+
+Se usa para las ecuaciones de congruencia o para calcular las divisiones de numeros demasiado grandes
 
 > $\text{Si }p\text{ es primo} \land \text{mcd}(a,p)= 1\rArr a^{p-1}\equiv 1(p)$
 > 
