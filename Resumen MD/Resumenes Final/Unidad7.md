@@ -1,5 +1,3 @@
-# Unidad 7: Congruencias en $\Z$
-
 Congruencia modulo n
 
 > $$\text{En }\Z: \quad aRb \Leftrightarrow a\equiv b(n)\Leftrightarrow n\vert a-b$$
@@ -11,7 +9,7 @@ Congruencia modulo n
 
 > $$\forall x,y\in \Z : \text{Si } x\in\overline{a}(n)\land y\in\overline{b}(n) \rArr x\cdot y \in \overline{a\cdot b}(n)$$
 
-## Funcion de Euler
+#### Funcion de Euler
 
 > $$ \phi (n) = \lvert \{x\in\N / x\leq n\land \text{mcd}(x,n)=1 \}  \rvert $$
 
@@ -23,7 +21,7 @@ Osea me devuelve cuantos numeros coprimos hay hasta el numero $n$
 > 3. 	Si $n,m\in\N \text{ y mcd}(n,m)=1:\phi(n\cdot m)=\phi(n)\cdot \phi(m)$
 > 4. $$ \phi(n)= n\cdot \left(1-\frac{1}{p_1}\right)\cdot \left(1-\frac{1}{p_2}\right)\cdot\cdots\cdot\cdot \left(1-\frac{1}{p_r}\right) $$
 
-## Teorema de Fermat
+#### Teorema de Fermat
 
 Se usa para las ecuaciones de congruencia o para calcular las divisiones de numeros demasiado grandes
 
@@ -31,12 +29,12 @@ Se usa para las ecuaciones de congruencia o para calcular las divisiones de nume
 > 
 > Este teorema se usa para ir simplificando los exponentes para verificar si el resto de una division cae en una clase
 
-## Teorema de Euler-Fermat
+#### Teorema de Euler-Fermat
 
 > $$\text{Si mcd } (a,n)=1 \rArr a^{\phi(n)}\equiv 1(n)$$
 
 
-## Ecuaciones Lineales de Congruencia
+#### Ecuaciones Lineales de Congruencia
 
 > $$a\cdot x\equiv b(n) $$
 
@@ -49,4 +47,4 @@ Se usa para las ecuaciones de congruencia o para calcular las divisiones de nume
 > 
 > Esto sirve tambien para simplificar las ecuaciones, se puede dividir termino a termino por la cantidad de soluciones, luego resolver la ecuacion, y finalmente **al resultado de la eq simplificada se le suma el modulo simplificado la cantidad de soluciones que hallamos obtenido.**
 
-> $$\text{Si}: a\cdot c\equiv b\cdot c(n)\land \text{mcd}(c,n)=1 \\\text{Entonces }a\equiv b(n)$$
+> $$\text{Si}: a\cdot c\equiv b\cdot c(n)\land \text{mcd}(c,n)=1 \quad \text{Entonces }a\equiv b(n)$$
