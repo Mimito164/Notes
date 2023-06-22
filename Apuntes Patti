@@ -1,0 +1,115 @@
+<h1>Formulas para Sistemas de comunicacion</h1>
+
+# Formulas Mesa Agosto
+
+## Antenas
+
+## Lineas de Trasmision
+
+> Longitud de Onda
+>
+> $$ \lambda = \frac c f =c\cdot T $$
+>
+> * $\lambda:$ Longitud de Onda $[m]$ 
+> * $c:$ constante de velocidad de la luz $3\cdot 10^8[\frac m s]$
+
+> Impedancia Caracteristica General
+>
+> $$ Z_0=\sqrt{\frac{R+j\omega L}{G+j\omega C} } $$
+> * $Z_0:$ Impedancia Caracteristica $[\Omega]$
+> * $R:$ resistencia $[\Omega/ud]$
+> * $G:$ admitancia $[\Omega^{-1}/ud]$
+> * $L:$ inductancia $[H/ud]$ (henrys)
+> * $C:$ capacitancia $[F/ud]$ (faradios)
+> 
+> $ud:$ unidad de distancia, puede ser metros, kilometros, pulgadas, pies, etc. No es relevante porque se cancela.
+> * En frecuencias bajas $\omega \to 0$
+> $$ Z_0 =\sqrt \frac R G $$
+> * En frecuencias bajas $\omega \to \infty$
+> $$ Z_0 =\sqrt{\frac{j\omega L}{j\omega C}} = \sqrt \frac LC $$
+
+> Impedancia Caracteristica Cable paralelo
+>
+> $$ Z_0=276\log\frac D r$$
+> * $D:$ distancia entre los cables de centro a centro $[\text{pulgadas}]$
+> * $r:$ radio del conductor de cada cable $[\text{pulgadas}]$
+
+> Impedancia Caracteristica Cable Coaxial
+>
+> $$ Z_0=\frac {138} {\sqrt \epsilon_r}\log \frac Dd $$
+> * $D:$ diametro interior de las paredes del coaxil $[\text{pulgadas}]$
+> * $d:$ diametro del conductor del coaxil $[\text{pulgadas}]$
+> * $\epsilon_r:$ permeabilidad relativa del dielectrico del coaxil $[\text{sin unidad}]$
+
+> Constante de propagacion o coeficiente de propagación (formula conceptual)
+>
+> $$ \gamma = \alpha + j\beta $$
+> * $\gamma:$ constante de propagacion $[Np/ud]$
+> * $\alpha:$ coeficiente de atenuacion $[Np/ud]$
+> * $\gamma:$ coeficiente de desplazamiento de fase $[\text{radianes}/ud]$
+
+> Constante de propagacion o coeficiente de propagación
+>
+> $$ \gamma = \sqrt{(R + j\omega L)\cdot(G + j\omega C) } $$
+> * $R:$ resistencia $[\Omega/ud]$
+> * $G:$ admitancia $[\Omega^{-1}/ud]$
+> * $L:$ inductancia $[H/ud]$ (henrys)
+> * $C:$ capacitancia $[F/ud]$ (faradios)
+
+> Coeficiente de Atenuacion
+>
+> A frecuencias intermedias y de radio, osea $\omega L>R$ y $\omega C>G$
+>
+> $$ \alpha = \frac R{2\cdot Z_0} + \frac {G\cdot Z_0} 2$$
+
+> Coeficiente de Desplazamiento de fase
+>
+> A frecuencias intermedias y de radio, osea $\omega L>R$ y $\omega C>G$
+>
+> $$ \beta = \omega\sqrt {LC} $$
+
+> Factor de Velocidad
+>
+> $$ V_f = \frac {V_p} c $$
+> * $V_f:$ factor de velocidad $[\text{adimensional}]$
+> * $V_p:$ velocidad de propagacion del medio $[\frac m s]$
+> * $c:$ constante de velocidad de la luz $3\cdot 10^8[\frac m s]$
+
+> Factor de Velocidad en una linea de trasmicion
+>
+> $$ V_f = \frac 1 {\sqrt{\epsilon_r}} $$
+
+> Velocidad de propagacion en una linea de trasmicion
+>
+> $$ V_p = \frac D {\sqrt{LC}}$$
+> * $D:$ distancia de la linea de trasmicion $[m]$
+
+> Equivalencia de la longitud de onda
+>
+> $$ \lambda = \frac {V_p} f = \frac {c\cdot V_f} f = \frac {c} {f\sqrt{\epsilon_r}}  $$
+
+> Coeficiente de Reflexion
+>
+> $$ \Gamma = \frac{V_r}{V_i} = \frac{I_r}{I_i} $$
+> * $\Gamma:$ Coeficiente de Reflexion $[\text{adimensional}]$
+> * $V_i:$ Voltaje incidente $[V]$
+> * $V_r:$ Voltaje reflejado $[V]$
+> * $I_i:$ Corriente incidente $[A]$
+> * $V_r:$ Corriente reflejada $[A]$
+
+> Relacion Onda estacionaria
+>
+> $$ SWR = \frac{V_{max}}{V_{min}} = \frac{V_i + V_r}{V_i - V_r}= \frac {1+\Gamma} {1-\Gamma} \quad [\text{adimensional}]$$
+
+> Cuando La caga es puramente resistiva
+>
+> $$ SWR = \frac{Z_0}{Z_L} \text{o} \frac{Z_L}{Z_0} $$
+> * $Z_L:$ Impedancia de carga
+> 
+> Se usa la formula que de un numero mayor que 1
+
+## Calculos de Enlace
+
+## Ondas Electromagneticas
+
+
