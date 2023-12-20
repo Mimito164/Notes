@@ -19,12 +19,10 @@ def setup(ax, title):
 	
 cm = 1/2.54 
 
-fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15*cm,5*cm))
-setup(ax1, "Metodo 1")
-setup(ax2, "Metodo 2")
+fig, ax = plt.subplots(1, 1, figsize=(15*cm,5*cm))
+setup(ax, "Intervalo de Gravedad")
 
-ax1.plot([0.15,0.25],[0,0], marker='|', linewidth='7', c='r', clip_on=False, alpha=0.7, solid_capstyle="butt")
-ax2.plot([0.18, 0.22],[0,0], marker='|',  linewidth='7',	 clip_on=False, alpha=0.7, solid_capstyle="butt")
+ax.plot([9.4,11.2],[0,0], marker='|', linewidth='7', c='r', clip_on=False, alpha=0.7, solid_capstyle="butt")
 
 
 # fig.set_size_inches(6,2)

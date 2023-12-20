@@ -46,13 +46,13 @@ fig0, axs0 = plt.subplots(2, 1, figsize=(figure_width*cm2inch,figure_height*cm2i
 fig0.suptitle('Intervalos de Mediciones')
 
 
-setup(axs0[0], title="Metodo 1")
+setup(axs0[0], title="")
 setup(axs0[1], title="Metodo 2")
 
 
 
-axs0[0].plot([0.15,0.25],[0,0], '-o', linewidth='10', c='r', clip_on=False, alpha=0.7, solid_capstyle="projecting")
-axs0[1].plot([0.18, 0.22],[0,0], '-o', linewidth='10', clip_on=False, alpha=0.7, solid_capstyle="projecting")
+axs0[0].plot([0.23,0.25],[0,0], '-o', linewidth='10', c='r', clip_on=False, alpha=0.7, solid_capstyle="projecting")
+axs0[1].plot([0.231, 0.247],[0,0], '-o', linewidth='10', clip_on=False, alpha=0.7, solid_capstyle="projecting")
 
 fig0.tight_layout()
 
