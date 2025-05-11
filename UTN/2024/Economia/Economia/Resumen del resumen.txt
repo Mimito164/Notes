@@ -1,0 +1,623 @@
+NECESIDADES: impulso humano o motivación dirigido a satisfacer una carencia de naturaleza variable como alimento, agua, vivienda, protección, afecto, seguridad, etc.
+	PRIMERIAS/VITALES
+	SECUNDARIAS/CONVENIENTES
+	TERCIARIAS/SUPERFLUAS
+LEY DE LAS NECESIDADES.
+BIENES:MEDIO MATERIAL,FISICO,SATISFACE NECESIDAD DE INDIVIDUO O SOCIEDAD.
+SERVICIO:PRESTACION QUE SATISFACE UNA NECESIDAD DE INDIVIDUO O SOCIEDAD.
+
+BIENES:
+	SEGUN CARACTER:
+		GRATUITOS:AIRE
+		ECONOMICOS:ESCASOS, EJ AUTO.
+	POR NATURALEZA:
+		DE CAPITAL: DESTINADOS A GENERAR OTRO PRODUCTO, EJ MAQUINARIA.
+		DE CONSUMO: SATISFACCION DIRECTA DE NECESIDAD. EJ SILLA.
+	SEGUN CONSUMO:
+		UNICO: DESAPARECE
+		DURABLE: PROLONGADO EN EL TIEMPO.
+	SEGUN FORMA DE SATISFACER:
+		USO INTERMEDIO: DEBE TRANSFORMARSE PARA SATISFACER.
+		USO FINAL: SATISFACE DIRECTAMENTE.
+PROBLEMA ECONOMICO: LAS NECESIDADES SON ILIMITADAS PERO LIMITADAS EN SU CAPACIDAD PARA SATISFACERLAS.
+PRINCIPIO DE ESCASEZ: La gente quiere adquirar mas de lo disponible y por lo tanto compite por los bienes, generando la actividad economica.
+PRINCIPIO DE CONVENIENCIA: Evaluar el esfuerzo en base a cuan util me va a ser.
+ACTIVIDAD ECONOMICA: Esfuerzo humano para satisfacer necesidades. Se basa en Principio de conveniencia (luego de hacerlo estare mejor que antes) 
+y en el principio de Eficiencia (ley de menor esfuerzo, es decir, menor esfuerzo y recursos posibles para lograrlo)
+COSTO DE OPORTUNIDAD (de un bien o servicio): Cantidad de otros bienes o servicios que estoy dispuesto a renunciar para obtener este bien o servicio.
+OPERACION ECONOMICA:Accion en la cual empleo un medio (costo) para obtener otro medio (producto).
+ECONOMIA: Ciencia social que estudia las necesidades humanas y la forma de satisfacerlas
+	POSITIVA (LO QUE ES): Busca explicaciones objetivas de los fenomenos economicos.
+	NORMATIVA (LO QUE DEBERIA SER): Juicios personales y subjetivos. Establece juicios de valor e interpreta subjetivamente.
+
+MICROECONOMIA: Estudia los agentes economicos como por ejemplo las familias.
+	Teoria del consumo: De una flia y su actividad en el mercado (demanda).
+	Teoria de la produccion: De una unidad de produccion (empresa) y su act en el mercado. 
+	Teoria del mercado: Determinacion de precios.
+	Teoria de distribucion: Ingresos en los distintos factores de la produccion. 
+
+MACROECONOMIA: Economia en gral mediante variables agregadas.
+	Teoria del dinero y el credito: Credito, dinero y valor de la moneda.
+	Teoria del sistema economico nacional: Estudia la creacion, distribucion y gasto de la riqueza de una nacion.
+	Teoria de la economia internacional: Variables que afectan transacciones entre paises.
+	Teoria de las fluctuaciones economicas: Influencia de ciclos economicos en las predicciones.
+	Teoria del crecimiento economico: Formas de generar mayor riqueza basado en los paises.
+
+ECONOMIA MIXTA: Se basan en una economia de mercado pero reconoce que tiene un fallo y que necesita en un estado que intervenga al menos un poco.
+
+ECONOMIA CERRADA: No se intercambian bienes con otros paises.
+ECONOMIA ABIERTA: Se intercambian bienes, servicios o activos con otros paises.
+
+MERCADO DE LOS FACTORES DE PRODUCCION: 
+	FACTORES PRODUCTIVOS: Son los recursos que forman parte del proceso de produccion.
+	FAMILIA: Unidad de consumo.
+	EMPRESA: Unidad de produccion de bienes y servicios.
+
+UTILIDAD DE UN BIEN:
+	PARCIAL: Satisface una determinada necesidad.
+	TOTAL: 
+	MARGINAL:
+	FINAL:
+
+VALOR DE USO: Maximo valor que un individuo esta dispuesto a pagar por un bien o servicio.
+VALOR DE CAMBIO: Valor del bien en el mercado.
+
+COSTO DE PRODUCCION: Es el minimo valor que una empresa estara dispuesta a recibir para producir un bien o servicio.
+CONSUMIDOR RACIONAL: Maximiza la satisfaccion gastando sus recursos.
+PRODUCTOR RACIONAL: Maximiza el beneficio usando menos recursos posibles.
+
+------------PRECIOS----------
+RECTAS:
+	-RECTAS DE BALANCE O PRESUPUESTO: Combinacion de 2 bienes (precio1*cantidad1+precio2*cantidad2)
+	-CURVAS DE INDIFERENCIA: Combinacion de bienes que generan al consumidor la misma satisfaccion. 
+	-EQUILIBRIO DEL CONSUMIDOR: Punto en el que el consumidor encuentra su mayor satisfaccion con el presupuesto disponible.
+	-DEMANDA: Cantidad que los consumidores quieren adquirir a un determinado precio.
+		-EMPEORA SI(se desplaza hacia la izquierda):
+			-Disminuye la renta del consumidor.
+			-Baja el precio del bien sustituto.
+			-Sube el precio de bienes complementarios.
+			-Pierde popularidad el producto.
+		-MEJORA SI:
+			-Aumenta la renta del consumidor-
+			-Sube el precio del bien sustituto.
+			-Baja el precio de bienes complementarios.
+			-El prod se pone de moda.
+	-OFERTA: Cantidad de un bien que los vendedores estan dispuestos a ofrecer en funcion de un nivel de precio. Tiene pendiente positiva porq a medida que aumenta el precio hay mas oferta.
+		-EMPEORA SI(se desplaza hacia la derecha):
+			-Disminuye el precio.
+			-Baja el precio del bien complementario.
+			-Sube el precio de bienes sustituto
+			-Aumentan los costos de los factores de la produccion.
+		-MEJORA SI:
+			-Aumenta el precio-
+			-Sube el precio del bien complementario.
+			-Baja el precio del bien sustituto.
+			-Bajan los costos de los factores de la produccion.
+			-Se introduce una mejora tecnologica.
+
+PRECIO: Es inverso a la demanda. 
+BIEN COMPLEMENTARIO: Se consume en conjunto con el bien en cuestio. Ej azucar y cafe.
+BIEN SUSTITUTO: Satisface la necesidad del consumidor practicamente igual que el bien en cuestion.
+INGRESO DEL CONSUMIDOR: Si gano mas puede que los bienes normales se consuman mas que los inferiores.
+
+COSTO DE LOS FACTORES DE LA PRODUCCION: Si sube el precio de los factores (ej mano de obra) aumenta el costo de fabricacion, por lo que es inverso a la oferta.
+TECNOLOGIA: Una mejora en tecnologia disminuye el costo de fabricacion y aumenta la rentabilidad del producto. Por lo tanto mejora la oferta. Siempre es positiva la tecnologia. 
+
+
+MERCADO: Institucion social donde se encuentran los productores y consumidores. El punto de corte entre oferta y demanda se llama PUNTO DE EQUILIBRIO. Determinando una cantidad y un precio de mercado. En este punto lo que se quiere vender coincide con la cantidad que se quiere comprar.
+PUNTO DE EQUILIBRIO: Lo que se quiere comprar coincide con lo que se quiere vender. Ambos satisfechos.
+	EXCESO DE OFERTA: Cantidad ofrecida a un precio es mayor a la demandada. De a poco tendran que baja precios. En este caso, los DEMANDANTES dominan el mercado.
+	EXCESO DE DEMANDA: Cantidad demandada es mayor a la ofrecida. El precio ira subiendo hasta alcanzar el punto de equilibrio. Los OFERENTES dominan el mercado.
+
+POLITICAS DE CONTROL DE PRECIOS: Intervencion del Estado en el mercado para fijar precios a los bienes y servicios.
+	POLITICAS DIRECTAS: Estado fija precios.
+	INDIRECTAS: El Estado busca detener el alza de precios (publicidad).
+	FUNCIONALES: El Estado aplica impuestos, subsidios y Tasas de Interes.
+
+POLITICA DE PRECIO MINIMO: Si esta por encima del precio de equilibrio, la cantidad ofrecida sera mayor a la demandada y los vendedores tendran exceso de stock. A la larga los perjudica mas que ayudarlos.
+POLITICA DE PRECIO MAXIMO: Si esta por debajo del precio de equilibrio, la cantidad ofrecida sera menor a la demandada. Esto produce que muchos se queden sin obtener el bien, perjudicando al consumidor, cuando el Estado quiso hacer lo contrario.
+IMPUESTOS: Aplicado a los vendedores hace que la oferta Empeore. Por lo tanto incrementara el precio pagado por los consumidores, pero disminuye el precio recibido por los vendedores.
+SUBSIDIOS: Si se otorga a los productores, aumenta la oferta y disminuye el precio y aumenta lo recibido por los productores. Si se otorga a los consumidores mejora la demanda pero tambien aumenta el precio recibido por los productores. 
+TASAS DE INTERES: El Estado a traves del banco central impulsa politicas de creditos a tasas diferenciadas para controlar la oferta y demanda de bienes y servicios.
+
+ELASTICIDAD PRECIO DE LA DEMANDA (Ed = (-P x DeltaQ)/(Q x DeltaP) ): Capacidad de respuesta de un producto ante un cambio en su precio.
+	INELASTICA (0<Ed<1): La cantidad demandada varia poco ante las variaciones de precio. EJ NAFTA.
+	ELASTICA (Ed > 1): La cantidad demandada varia segun el precio, si el precio sube, baja la demanda y viceversa.
+	PERFECTAMENTE ELASTICA (Ed -> infinito): Si aumenta el precio, el consumo cae a CERO. Si disminuye, la demanda aumenta a infinito.
+	PERFECTAMENTE INELASTICA (Ed = 0): Insensible a la variacion de precio, la demanda va a ser la misma.
+	UNITARIA (Ed=1): La demanda varia relativamente al aumento de precios.
+
+TIPOS DE MERCADOS:
+	COMPETENCIA PERFECTA: Muchos productores y consumidores, el precio lo determina el mercado.
+	MONOPOLIO: Un solo productor que domina el mercado y fija los precios.
+	OLIGOPOLIO: Pocos vendedores y cabe la posibilidad de que acuerden entre ellos un precio. Ej petroliferos.
+	COMPETENCIA MONOPOLISTA: Muchos vendedores pero los productos no son identicos. Por eso a los compradores no les da lo mismo cambiar de marca y cada productor maneja su propio precio. Ej editoriales de libros.
+
+AGRUPACIONES DE LA OFERTA:
+	TRUST: Agrupacion de empresas que terminan originando un monopolio mediante la fijacion de precios.
+	HOLDING: Agrupacion de empresas pero cuando una empresa adquiere a las demas para poseer el control total.
+	CARTEL: Empresas llegan a un acuerdo de cese de competencia, llevando productos similares y cooperando entre ellos.
+	POOL: Varias empresas aportan a un poso en comun para compartir perdidas y ganancias.
+	CORNER: Acuerdos entre empresas en una determinada zona durante un breve tiempo.
+
+
+------------FACTORES DE PRODUCCION----------
+
+TEORIA DE LA PRODUCCION: Analiza el comportamiento de la empresa y su manifestacion en el mercado, es decir, la oferta. 
+UNIDAD DE PRODUCCION: Es la empresa.
+FACTORES DE LA PRODUCCION: Recursos que forman parte del proceso de fabricacion. Son TIERRA,TRABAJO,CAPITAL, EMPRESARIO. 
+	Recursos naturales: Ej. Tierra. Pueden ser renovables o no renovables.
+	Recursos humanos:
+	El capital: Factor de produccion constituido por diferentes tipos de bienes e incluso dinero, que se destina a la produccion.
+REMUNERACION A LOS FACTORES DE LA PRODUCCION:
+	TIERRA: Se paga una renta.
+	TRABAJO: Se paga la mano de obra.
+	CAPITAL: Se pagan intereses.
+	EMPRESARIO: Se le pagan beneficios. 
+
+DENSIDAD DE POBLACION: Numero de habitantes dividido el numero de km2 de una zona, region o pais.
+	Poblacion en expansion: Alta tasa de natalidad y muchos jovenes.
+	Pablacion estable: Tasa de natalidad moderada, baja tasa de mortalidad, gran cantidad de personas grandes.
+	Poblacion en declinacion: Muchos ancianos
+
+
+CAPITAL:
+	FIJO: Bienes materiales o de uso, luego del proceso de produccion siguen existiendo y conservan sus caracteristicas. Ej Terrenos, Maquinas, Edificios. 
+		El capital Fijo se deprecia. 
+		DEPRECIACION: Es la perdida de valor del capital fijo con el paso del tiempo, por diversas causas.
+
+	CIRCULANTE: Se consumen durante el proceso de produccion, incorporandose al producto. Ej materia prima,mano de obra, servicios, alquiler.
+		Normalmente la empresa llama circulante a todos aquellos activos que pueden convertirse facilmente en efectivo,como productos terminados, acciones, bonos.
+	
+NOTA: Como el dinero en la caja no es ni un bien ni dinero destinado al proceso de producción, no es considerado ni capital fijo ni capital circulante
+
+CAPITAL PRODUCTIVO: Maquinaria, materias primas ,etc. Liquidarlo reduce la capacidad productiva de la empresa.
+CAPITAL FINANCIERO: Son los pasivos de la empresa, es decir, gastos o deudas que la empresa posee a terceros, pagos a bancos, etc.
+PRODUCTIVIDAD: Relacion entre la produccion obtenida y los recursos utilizados.
+	TECNICA: Relacion entre la produccion obtenida y los factores de la produccion utilizados.
+	ECONOMICA: Relacion entre los beneficios obtenidos y el capital invertido.
+	SOCIAL: Relacionado con la sociedad, menores precios, mejores calidades.
+
+
+
+------------RENTA NACIONAL----------
+
+
+MACROECONOMIA: Estudia variables economicas agregadas.
+	Externas: Exogenas o independientes que afectan a la economia pero no son afectadas por ella. EJ Clima, Guerras.
+	Internas: Endogenas o dependientes. Ej consumo.
+
+Oferta Agregada: Volumen de produccion que fabricaran y venderan los negocios y el sector externo. Es decir, es el PBI + Importaciones.
+Demanda Agregada: Capital que gastaran los consumidores, el Estado y el sector Externo. Es decir, es el Consumo + Inversion bruta (Estado) + Exportaciones.
+
+GASTO PUBLICO: Gastos del Estado.
+POLITICA FISCAL: Politica economica que usa el gasto publico y los impuestos como variables de control para asegurar y mantener la estabilidad economica. 
+	-Mayor empleo posible
+	-Control de la demanda agregada.
+	-Control del deficit o superavit.
+
+PBI: Valor monetario de los bienes y servicios producidos por una economia en un periodo determinado. Se puede medir de 3 formas.
+	-COMO FLUJOS DE GASTOS: Midiendo el destino de los bienes producidos.
+		PBIpm(PBI Precio de mercado) = Consumo+Inversion(privada)+Gasto Publico+ Balanza Comercial(Exp-Importaciones)+Ajuste por variacion de existencias(Stock final-Inicial)
+
+	-COMO FLUJOS DE RENTAS : Segun como se distribuyen las rentas durante la produccion de esos bienes. Es decir, la plata que les ingresan cuando venden los productos.
+		PBIpm= Remuneracion de los factores prod [Salarios + Intereses(Deuda) + Gastos de Alquileres + Beneficio del empresario] + Impuestos Indirectos (Incluido el precio del bien) - Subsidios + Amortizacion de Capital Fijo + Gasto Publico 
+
+	-COMO FLUJO DE PRODUCCION: Segun cual fue el destion de los bienes producidos. (Explotan recursos naturales,Industrila, Servicios, otro)
+		PBIpm= Valor Agregado por los 4 sectores + Gasto Publico.
+
+Impuestos Indirectos: Ej IVA
+Impuestos directos: Gravan a la riqueza o al poseedor de la riqueza (Inmobiliario)
+
+IGUALDADES:
+	PBIcf = PBIpm - Impuestos Indirectos + Subsidios
+
+PRODUCTO BRUTO NACIONAL (PBN): Muestra la cantidad de bienes y servicios finales generados con los factores de produccion (tierra,trabajo,capital) de un PAIS en un periodo dado, aunque los factores se encuentren afuera de dicho pais.
+				A diferencia con el PBI, al PBN no le interesa en donde se produjo, en cambio, al PBI solo le interesa si se hizo dentro del pais. El PBN será MENOR que el PIB en los paises con mucha inversión (capital) extranjero
+				Además, en una economía cerrada el PIB coincidirá con el PNB.
+
+PBNpm = PBIpm + Balanza de pagos o transferencias(Giros del exterior-Giros del interior)
+
+
+PRODUCTO NETO INTERNO (PIN): El producto neto interior (PNI) es un indicador que mide el valor de los bienes y servicios finales generados en un país durante un periodo de tiempo determinado, una vez han sido descontadas las depreciaciones.
+
+PNIpm = PBIpm - Amortizacion de Capital Fijo
+
+MONTO TOTAL DE BIENES DISPONIBLES:
+MTBD = PBIpm - Balanza Comercial
+
+PBI Per Capita (YPC) = PBIcf / cantidad de habitantes 
+
+
+CUENTA CAPITAL: Comprende transferencias de capital y transferencias de patentes y derechos de propiedad.
+CUENTA FINANCIERA: Comprende Inversion Directa, Inversion extranjera y Variaciones de Reservas Internacionales (Excluyendo las tenencias de titulos publicos).
+
+
+
+------------SISTEMA MONETARIO----------
+
+MONEDA: Intermediario entre los cambios, sirve como medio de cancelacion.
+	Estabilidad,Durabilidad,Divisibilidad,Transportabilidad,Aceptabilidad,Homogeneidad y de oferta limitada.
+	FUNCIONES: Medio de cambio, unidad de medida de valor (de un bien), medio de cancelacion de deudas, acumulador de valor (ahorro).
+	El Banco Central la emite y establece su: Curso forzoso, Poder Cancelatorio, Poder liberatorio (obligado a recibir la moneda como medio de pago)
+	Si la moneda pierde su valor y su respaldo, se la denomina moneda fiducidaria. 
+CREDITO: Prestamista da un bien presente en base a un bien futuro que dara el deudor, basado en la confianza y solvencia.
+	Tipos de creditos: Personal, Legal y Economico. 
+	Clasificacion: 
+		Segun el plazo: Corto y largo plazo.
+		Por la Afectacion o no de Garantias: Personales (todos los bienes del deudor) y Reales (Un unico bien del deudor pero mas seguro que otro, ej Hipoteca.)
+		Por la personeria juridica del deudor: Privados (personas) o Publicos (entes publicos).
+		Por la ubicacion geografica de las partes: Nacional o Internacional.
+		Segun su objetivo: Para el Consumo o para la Produccion. 
+	Garantias:
+		Personales: Importa la persona deudora, sus bienes y sus ingresos futuros.
+			Pagare: Promesa escrita. El acreedor va a ser quien tenga el papel al momento del cobro y una vez pagado se devuelve el papel al deudor. 
+			Letra de cambio: El librador le manda al Librado a pagar una suma a una tercera persona.
+			Giro: Es una orden de pago (es un cheque) pero se usa para transacciones lejanas.
+			Aval: 
+			Factura Conformada:
+		Real: Es un bien de propiedad del Deudor que queda afectado hasta la cancelacion de la deuda. Si no paga el Acreedor puede ejecutarla (venderla) y cobrar la deuda. El remanente le queda al deudor. 
+			Hipoteca: El bien queda en manos del deudor mientras no se ejecute.
+			Anticresis: El bien queda en manos del ACREDOR, pero como la propiedad sigue siendo del Deudor, este debe pagar el mantenimiento y tambien recibe sus frutos. El acreedor solo tiene la posesion.
+			Empeño: El deudor recibe plata y deja como garantia un bien de su propiedad. Cuando el deudor paga, recupera su bien.
+BANCO CENTRAL: Entidad publica, autonoma e independiente del Gobierno al que pertenece, responsable de la politica monetaria de un pais.
+		Controla el sistema monetario (plata que circula), el sistema crediticio (mediante la tasa de interes) y el sistema de cambio (controlando el valor frente a otras monedas como el usd).
+		Funciones: 
+			1.Preservar el valor de la moneda y mantener la estabilidad de los precios mediante el uso de la tasa de interes.
+			2.Mantener la estabilidad del sistema financiero (controla los bancos)	
+			
+INFLACION: Aumento sostenido y generalizado de los precios de los bienes y servicios de un pais durante un periodo determinado.	
+		Causas: 
+			Tendencial: Suben los precios por las dudas.
+			De costos: Por aumento de los productos importados.
+			De demanda: La demanda aumenta mas de lo que se puede producir.
+			Credibilidad: Cuando la gente no cree en el gobierno.
+		Consecuencias:
+			Perdida de poder adquisitivo, disminucion del salario real, mayor circulacion de dinero, economia se busca dolarizar (moneda estable), disminuye el ahorro, aumenta la tasa de interes, crece pobreza, baja la inversion.
+		Para pararla se puede hacer:
+			Fijar tasas de interes altas.
+			Politicas de reduccion de consumo y creacion de ahorro.
+			Control sobre salarios y precios.
+
+------------COSTO DE CAPITAL Y DEPRECIACION----------
+PARA CALCULAR EL BALANCE GENERAL:
+	ACTIVO: Genera ingresos a su poseedor
+		CORRIENTES: Se puede convertir en efectivo en menos de un año. (Inversiones, creditos, caja y bancos) CAJA Y BANCOS (DISPONIBILIDADES), BIENES DE CAMBIO, CREDITOS POR VENTAS.
+		NO CORRIENTES: Son los bienes de uso, bienes intangibles, inversiones a largo plazo, etc. BIENES DE USO.
+
+	ACTIVO TOTAL = CORRIENTE + NO CORRIENTE
+
+	PASIVO: Genera gastos al poseedor. Deudas que la empresa tiene con terceros (proveedores, comerciales, bancos, estado), es decir, capital prestado que genera intereses.
+		PASIVO CORRIENTE: DEUDAS CON PROV A CORTO PLAZO
+		PASIVO NO CORRIENTE: DEUDAS A LARGO PLAZO
+
+	PATRIMONIO NETO: Capital Social(beneficio)+Resultado del ejercicio (UNDIG)+Resultado del ejercicio anterior.
+
+	ACTIVO TOTAL = PATRIMONIO NETO + PASIVO TOTAL
+	
+	nota: Si me dan absorcion y me pasan el costo de ventas y gastos generales(Gastos de comerc fijos, Gastos adm y fin) , con eso ya me alcanza para hacer la UNDIG. 
+
+COSTO DE CAPITAL(Ke): Es el costo que tienen que pagar por utilizar capital de terceros, regularmente se hace mediante la emision de acciones o titulos de deuda. 
+			Basicamente es lo que recibe el accionista como dividendos. Los acreedores reciben intereses (por poner capital propio)
+		Sirve como referencia de rentabilidad minima que debe obtener la empresa con sus inversiones, ya que la rentabilidad debe superar este costo. 
+
+INDICE DE ENDEUDAMIENTO: Mide el porcentaje de los ACTIVOS(generar dinero) de la empresa que son financiados con deuda de terceros. CUANTO PUSIERON TERCEROS
+	E(%) = 100*CAPITAL PRESTADO/ACTIVO TOTAL
+
+APORTE DE CAPITAL: Son los ACTIVOS de la empresa que son financiados por los socios. CUANTO PUSIERON LOS SOCIOS
+	AC(%) = 100 * CAPITAL PROPIO/ACTIVO TOTAL
+
+EFECTO PALANCA/APALANCAMIENTO FINANCIERO: Es la capacidad de aumentar el dinero para invertir con el dinero prestado por terceros (deuda,futuros,etc).
+	
+	EFECTO PALANCA = ROE/ROA
+
+ROE: Beneficios economicos obtenidos a partir de los recursos propios e inversiones realizadas. Rendimiento que obtiene un inversor. Pasa por alto el ratio de endeudamiento. 
+	ROE = GANANCIA(BENEFICIO), despues de la deuda (Resultado del ejercicio desp de IG) / PATRIMONIO NETO (puedo usar el PNFinal, el PNInicial o el PNPromedio)
+
+ROA: Beneficio que obtiene una empresa, por las inversiones realizadas. -Valora la competencia de los ACTIVOS de una empresa para producir ganancias por ellos mismos. 
+	ROA = GANANCIA(BENEFICIO), antes de la deuda / ACTIVO TOTAL
+
+		ROE>ROA: Efecto palanca positivo, es decir sirvio tomar deuda para invertir.
+		ROE=ROA: Efecto palanca neutro, no suma ni resta tomar deuda.
+		ROE<ROA: Efecto palanca negativo, el financiamiento con credito hizo que disminuya el patrimonio neto.
+
+EQUIVALENCIAS:
+Ganancia desp de la deuda = Ganancia antes de la deuda - Costo de la deuda(Kd)
+Beneficio = Beneficio Economico - Gasto Financiero
+Utilidad Neta = Utilidad Bruta - Gasto Financiero
+
+
+TASA REAL EFECTIVA: Se trata del porcentaje de interes REAL que se ABONA sin considerar otros costos. Es mas precisa que la Tasa Nominal.
+		En el Impuesto a las ganancias, los intereses son deducibles siempre y cuando prevengan del financiamiento para adquisicion de bienes o servicios afectados a la obtencion.
+		Dado que la tasa de costo de la deuda es KD, podemos generar un ahorro en este costo debido a la deduccion del Impuesto a las Ganancias. KI = KD(1-T) (Si el beneficio Neto > 0), siendo T=0,35 en el caso de Argentina.
+
+WACC (Tasa de Costo de Capital)(Ko): Surge del cociente entre lo que cobran los accionistas (dividendos) sobre el capital que invirtieron.
+	*Ver formula en resumen.
+
+RIESGO PAIS: Indice que mide el riesgo de NO PAGO por parte de los paises emergentes. Adquiere relevancia cuando lo comparamos con el de otro pais. 
+
+
+CAPITAL DISPONIBLE:
+	CAPITAL FIJO: Bienes que se aplican reiteradamente al proceso productivo, estatico, de lenta recuperacion. 
+		Sufren DEPRECIACION (perdida de valor a traves del tiempo) y se AMORTIZAN (edificios, maquinarias y equipos, herramientas, muebles, rodados, etc).
+		AMORTIZACION: Representa la perdida de valor que sufren los bienes de uso tales como desgaste, obsolencia, etc. Cumple 3 propositos, funcion contable (incorporar el costo de depreciacion al proceso productivo),
+			funcion economica (recuperar el valor consumido reteniendo el valor en cuotas) y funcion financiera (transforma el activo fijo en circulante a traves de la suma de la amortizacion al costo del producto y su venta final)
+
+		VIDA UTIL TECNOLOGICA: Duracion estimada que un bien de uso durable puede tener cumpliendo su funcion.
+		VIDA UTIL ECONOMICA: Es aquella en la que el costo por mantenerlo pasa a ser mayor que si lo reemplazamos por uno nuevo.
+
+		VALOR INICIAL DE UN BIEN: Es el costo total de adquisicion, construccion o fabricacion y hasta la puesta en marcha.
+			-Importe,Gastos de instalacion,Impuestos que no se recuperan, Materias Primas y materiales de prueba, Mano de obra, Costos indirectos asociados.
+		
+		VALOR FINAL DE UN BIEN: Valor estimado del bien una vez que cumplio su vida util. 
+			-Valor de reventa menos todos los gastos que se produzcan hasta la venta definitiva, como por ej desmantelamiento, comisiones o impuestos asociados a la venta.
+
+		VALOR FINAL = VALOR REVENTA - GASTOS COMERCIALES.
+		VALOR AMORTIZABLE = VALOR INICIAL - VALOR FINAL
+
+		VALOR RESIDUAL: Valor del bien en un momento DETERMINADO de su vida.
+		VALOR RESIDUAL = VALOR INICIAL - VALOR AMORTIZABLE (En algun año)
+
+	SISTEMAS DE AMORTIZACION:
+		DE CUOTA CONSTANTE:   Cuota = Valor amortizable / VidaUtil(años)
+		DE CUOTA CRECIENTE:   Cuota K = (ValorAmortizable x K) / Sumatoria Años de vida
+		DE CUOTA DECRECIENTE: Cuota K = ValorAmortizable x (Vida Util + 1 - K) / Sumatoria Años de vida
+
+
+------------COSTOS Y SISTEMAS DE COSTEOS----------
+
+INVENTARIOS:	
+		FIFO : Cuando el inventario se valúa por método FIFO, salen del almacén las materias primas de menor valor, por lo cual el costo del producto es menor y 
+			por consiguiente las existencias quedan valuadas a mayor costo (porq me quedan las mas caras que son las ultimas compradas).
+			Como contrapartida de lo expuesto, la empresa mostrará un mayor monto en activo corriente, en bienes de cambio, pero el beneficio económico es mayor, por lo cual la empresa pagará mayor monto de impuesto a las ganancias.
+		LIFO : Cuando el inventario se valúa por método LIFO, salen del almacén las materias primas de mayor valor, por lo cual el costo del producto es mayor 
+			y por consiguiente las existencias quedan valuadas a menor costo. Como contrapartida de lo expuesto, la empresa mostrará un menor monto en Activo Corriente, en bienes de cambio, pero el beneficio económico será menor, por lo cual la empresa pagará menor monto de impuesto a las ganancias.
+		PPP (Precio Promedio Ponderado): Cuando el inventario se valúa por método PPP, salen del almacén las materias primas a un costo promedio entre los dos sistemas de valuación anteriores.
+			Por lo tanto, voy a sumar el total de existencias (por mas que sean de distintos valores), luego sumo los totales que valen esas existencias, y lo divido por el valor del total de existencias, y asi obtengo el ultimo precio. 
+			El PPP lo tengo que usar tanto para los stocks de productos como para los stocks de materia prima (de la que luego sale el PUFabricacion)
+
+INVERSION: Desenbolso que se recupera a mediano o largo plazo con un beneficio adicional.
+GASTO: Desenbolso para atender consumos, a veces como inversiones (se recupera) y a veces no.
+COSTO: Suma del dinero insumida por la produccion de un bien o servicio. Esta el TOTAL (de la produccion) o el UNITARIO.
+	DIRECTO: Gastos directamente relacionados a la obtencion del producto o servicio.
+	INDIRECTO: Gasto que afecta al proceso productivo en uno o mas productos pero que no se puede asignar a solo uno. Ej luz.
+
+	SEGUN VARIABILIDAD:
+		COSTOS FIJOS: Permanecen CONSTANTES ante variaciones de produccion. Ej Alquiler. Pueden ser EROGABLES (tenemos que desenbolsar la plata en el corto plazo) y NO EROGABLES (no hace falta desenbolsar la plata, por lo general son amortizaciones).
+		COSTOS VARIABLES: Varian segun la produccion. Ej materia prima.
+		SEMIVARIABLES: ej sueldo en funcion de la produccion. 
+
+COSTO TOTAL = COSTOS FIJOS + COSTOS VARIABLES
+
+COSTOS FIJOS MEDIOS = COSTOS FIJOS / PRODUCCION TERMINADA
+
+COSTOS VARIABLES MEDIOS = COSTOS VARIABLES / PRODUCCION TERMINADA
+
+COSTOS MEDIOS = COSTO TOTAL / PRODUCCION TERMINADA
+
+COSTOS MARGINALES = Var COSTO TOTAL / Var PRODUCCION TERMIANDA
+
+
+
+CAPACIDAD INSTALADA: Se refiere al potencial maximo de produccion.
+
+
+COSTO DE PRODUCCION = SUMA DE TODOS LOS COSTOS DIRECTOS E INDIRECTOS NO FIJOS.
+	INDIRECTOS:
+		MANO DE OBRA INDIRECTA: Sueldos de supervisores, limpieza, mantenimiento. Abarcan TODA la actividad fabril.
+		GASTOS GENERALES DE FABRICACION: Gastos indispensables para el funcionamiento de la fabrica. Ej Pintura, clavos, remaches, etc.
+	DIRECTOS:
+		MANO DE OBRA DIRECTA: Operarios del proceso productivo.
+			Costo de Mano de Obra = Precio de Mano de Obra (incluyendo cargas sociales) * Cantidad de mano de obra (incluyendo perdidas)
+		MATERIA PRIMA DIRECTA: Imprescindibles consumidos durante el proceso de produccion.
+			Costo de Materia Prima = Precio Unitario * Cantidad de Materia Prima
+		PERDIDA DE MATERIA PRIMA:
+			DESPERDICIO O RECORTE: Perdidas al adaptar el producto 
+			RECHAZO: Por control de calidad.
+			MERMAS: Producidas por el manipuleo, fusion, etc.
+
+
+SISTEMA DE COSTEO: Son todas las técnicas empleadas por una compañía para determinar y analizar sus costos. El objetivo a corto plazo es que los ingresos sean mayores que los costos,  en el largo plazo, la gestión de los costos está relacionada con una administración estratégica.
+	SEGUN COSTEOS PREDETERMINADOS: Calculados con anterioridad al proceso de fabricacion.
+		COSTOS ESTIMADOS: Promedios de alguna produccion real anterior o estimaciones de especialistas.
+		COSTOS ESTANDAR: Determinan de manera tecnica el costo unitario de un producto, son cientificamente predeterminados que sirven de base para medir la situaciona actual.
+	SEGUN COSTOS FIJOS:
+		ABSORCION O INTEGRAL (por ordenes o proceso): Se tienen en cuenta los costos FIJOS(de fabricacion) y VARIABLES(de fabricacion) en el costo del producto. Implica aplicar la totalidad de las cargas fabriles a la produccion de un periodo. 
+				Genera costos elevados en periodos de baja y costos reducidos en periodos de alta produccion. Al calcular el CU Fabricacion, debo sumarle los Gastos Fijos de Fabricacion. 
+				Luego al calcular el cuadro de resultados no debo restarle los Gastos Fijos de fabricacion a la Utilidad Neta porque ya los tengo incluidos en el Costo de Ventas (mediante el CUfabricacion).
+		DIRECTO O VARIABLE: Los costos varian en base al nivel de produccion.
+				-Los costos VARIABLES(mat prima) se distribuyen entre las unidades producidas (contribucion marginal).
+				-Los costos FIJOS se relacionan con la capacidad instalada, pero nunca con el nivel de produccion. 
+
+SINONIMOS
+Beneficio Neto = Beneficio = Utilidad Neta = Utilidad = Ganancia después de deuda
+Beneficio económico = Beneficio bruto = Utilidad Bruta = Ganancia antes de deuda
+
+
+CONTRIBUCION MARGINAL: Sirve para analizar si los ingresos por las ventas son suficientes para cubrir los costos de las mismas. 
+CONTRIBUCION MARGINAL = Ventas - Costos Variables (Costo de Ventas, Costo de Comercializacion Variable)
+CONTRIBUCION MARGINAL UNITARIA = Precio Venta Unitaria - Costo Variable Unitario
+
+PUNTO DE EQUILIBRIO en UNIDADES (Q0): Es cuando la empresa llega a cubrir todos sos costos (fijos y variables) obteniendo un beneficio igual a cero. 
+	Beneficio Total(BF) = Ingreso Total(IT) - Egreso Total(ET) --> 0
+	Q0 = COSTOS FIJOS TOTALES / CONTRIBUCION MARGINAL UNITARIA (En caso de que sea mas de un prod, agarro la ultima que mas vendi y fue)
+
+PUNTO DE EQUILIBRIO ECONOMICO (Q0):Q0 unid x PRECIO DE VENTA 
+
+PUNTO DE EQUILIBRIO FINANCIERO (Q0F): Ubicado justo debajo del punto de equilibrio, nos marca el volumen de venta minimo para no entrar en deficit. El punto de equilibrio financiero por definición, es el número mínimo de unidades de producto que una compañía debe vender para cubrir sus costos y que el beneficio sea cero. 
+					En este caso, utilizamos únicamente los costos erogables, es decir, aquellos que se pagan en una fecha cercana. De esta manera, garantizamos que tu empresa está en capacidad de cubrir los gastos  principales de la producción
+	Q0F = COSTOS FIJOS TOTALES EROGABLES / CONTRIBUCION MARGINAL UNITARIA(calculada con Costos variables EROGABLES)
+
+
+	COSTO UNITARIO(VARIABLE) DE FABRICACION = SUMATORIA GASTOS VARIABLES DE FABRICACION  / UNIDADES PRODUCIDAS      NOTA: Tener en cuenta que es de FABRICACION (mano de obra, Mat prima usada, fab variables) por lo tanto no entran los de comercializacion (ni por mas que sean variables), tampoco los gastos adm y financieros. 
+		NOTA: SI ES POR ABSORCION; A LOS GASTOS VARIABLES LE TENGO QUE SUMAR EL GASTO FIJO DE FABRICACION.
+
+COSTO DE VENTAS = UNIDADES PRODUCIDAS VENDIDAS * COSTO UNITARIO DE FABRICACION		Representa el costo de produccion de la mercaderia vendida.	
+
+COSTO VARIABLE UNITARIO = COSTO UNITARIO DE FABRICACION + COSTO VARIABLE UNITARIO DE COMERCIALIZACION (Costo variable de comercializacion/unidades vendidas).  Luego esta la uso para la contribucion marginal. 
+
+CUADRO DE RESULTADOS:
+	UTILIDAD BRUTA: Se refiere a la ganancia por las ventas, luego de restar los costos asociados a su fabricacion (Costo de ventas y gastos de comercializacion variables)
+	UTILIDAD BRUTA = VENTAS - COSTO DE VENTAS - GASTOS COMERC VARIABLES - COMISION POR VENTAS
+
+	UTILIDAD NETA ANTES DE IMPUESTOS (UNAIG) = PRODUCTOS VENDIDOS * PRECIO UNITARIO - SUMATORIA DE TODOS LOS GASTOS (Costo de Ventas, Gastos de comercializacion fijos y variables, gastos de produccion, gastos administrativos, etc) Es sinonimo de RESULTADO DEL EJERCICIO
+	UTILIDAD NETA ANTES DE IMPUESTOS (UNAIG) = UTILIDAD BRUTA - GASTOS COMERCIALIZACION Y ADM FIJOS - GASTOS FABRICACION FIJOS
+
+	UTILIDAD NETA DESPUES DE IMPUESTOS (UNDIG) = UNAIG * IMP GANANCIAS.
+
+
+VALOR DE LAS EXISTENCIAS = CANT EXISTENCIAS * PRECIO UNITARIO FABRICACION
+
+------------CONTABILIDAD----------
+
+CONTABILIDAD: Su finalidad es apoyar los procesos en la Administracion de una empresa. Sirve a la direccion de la empresa para orientarla en la toma de decisiones.
+	Funciones:
+		Historica: Registros economicos.
+		Estadistica: Da una vision real de la situacion de la empresa mediante hecho economicos.
+		Economica: Estudia el desarrollo de los negocios de la empresa.
+		Financiera: Analiza recursos para hacer frente a los compromisos.
+		Fiscal: Analiza las disposiciones y como afectan.
+		Legal: Analiza la ley y como afecta.
+
+FLUJO DE INVERSIONES: Primero se recibe dinero de inversores (Financiacion), luego se invierte en recursos productivos (Inversion), luego se produce (operaciones). Una parte se reinvierte y otra se devuelve a los inversores.
+
+Sistema de informacion contable: Es exacto, verdadero y fidedigno, claro, referido a un nivel (segun a quien sea dirigido), economico (su costo es menor a su beneficio), oportuno (siempre disponible cuando es necesario).
+
+Principios de la partida doble: 
+	1. En todo hecho contable siempre hay un DEUDOR y un ACREEDOR.
+	2. El que recibe, DEBE. El que entrega, ACREDITA.
+	3. Todo lo que ingresa debe ser igual a lo que sale. DEBE=HABER.
+	4. Las perdidas se DEBITAN y las ganancias se ACREDITAN.
+
+
+PATRIMONIO: Conjunto de Bienes, Derechos y Obligaciones que tiene una empresa. 
+	Activo: Bienes y derechos.
+	Pasivo exigible: Deuda con terceros.
+	Patrimonio neto: Deuda con los dueños.
+
+CUENTAS: Son grupos de elementos patrimoniales homogeneos a los que se les asigna un titulo identificatorio.
+
+PLAN DE CUENTAS: Listado de cuentas que una empresa ha utilizado para su actividad economica.
+
+ESTADOS CONTABLES: Informes para dar a conocer la situacion economica-financiera en un periodo determinado. Debe representar obligatoriamente los siguientes estados:
+	Situacion Patrimonial o Balance General
+	Estado de Resultados
+	Evolucion del patrimonio neto.
+	Flujo del efectivo.
+
+CUENTAS PATRIMONIALES o BALANCE GENERAL: Son estaticas e instantaneas dado que muestran la situacion de la empresa al finalizar el ejercicio.
+	Activo corriente o circulante: Bienes que se espera se conviertan en dinero o su equivalente.  Se utilizan en la actividad y se van rotando (menos de 1 año). Si tengo stock y el precio de fabricacion, lo multiplico y saco el valor del stock actual para sumarlo a los activos corrientes. 
+	Activo no corriente o Fijo: Bienes y derechos que tiene la empresa con liquidez a mas de un año. Se utilizan en la actividad de la empresa por varios ejercicios.
+	Pasivo Exigible corriente: Compromisos y obligaciones inmediatos con terceros.
+	Pasivo Exigible No corriente: Compromisos y obligaciones no inmediatos con terceros.
+	Pasivo No Exigible o Patrimonio Neto: Compromiso y obligaciones que tiene la empresa con sus socios o accionistas. (Incluye el resultado del ejercicio ANTES o DESPUES de IG). Para verificar: Patrimonio Neto + Pasivos totales= Activos Totales
+
+
+En el ACTIVO se contabiliza todo lo que posee la empresa. En el PASIVO se registran las fuentes de financiacion, propias y externas. 
+ACTIVO TOTAL = PASIVO TOTAL (EXIGIBLE + NO EXIGIBLE)
+PATRIMONIO NETO = ACTIVO TOTAL - PASIVO EXIGIBLE , es decir, los bienes que posee + los que le deben = lo que le debe a terceros + lo que la empresa debe a sus dueños. 
+
+PATRIMONIO NETO INICIAL= CAPITAL SOCIAL + RESULT DEL EJ ANTERIOR
+PATRIMONIO NETO FINAL = PATRIMONIO NETO INICIAL + RESULTADO DEL EJ (Utilidad neta)
+PATRIMONIO NETO PROMEDIO = (PATRIMONIO NETO INICIAL + PATRIMONIO NETO FINAL) / 2
+
+Si PATRIMONIO NETO INICIAL > PATRIMONIO NETO FINAL --> Perdida
+Si PATRIMONIO NETO INICIAL < PATRIMONIO NETO FINAL --> Utilidad
+
+
+CAPITAL FIJO: Es el Activo No corriente financiado con recursos propios. Se consumen en mas de un ciclo de produccion. EJ Compra de maquina, compra de vehiculos.
+ 
+CAPITAL FIJO = Activo no corriente o Activo Fijo - Pasivo Exigible No Corriente.  Es decir, a largo plazo.
+
+CAPITAL CIRCULANTE: Es el Activo Corriente que no esta inmovilizado, es decir, que todavia no completo el ciclo. Se consumen en un ciclo de produccion. Ej Materia prima, alquiler, sueldos. 
+
+
+
+SITUACION ECONOMICA: Se refiere a la capacidad que tiene la empresa de generar utilidades.
+SITUACION FINANCIERA: Se refiere a la capacidad que tiene la empresa para cancelar sus deudas.
+
+ANALISIS FINANCIERO:
+	INDICE DE ENDEUDAMIENTO: Mide la proporcion de los activos de la empresa que son financiados con dinero prestado. 
+		INDICE DE ENDEUDAMIENTO = PASIVO TOTAL (exigible) / ACTIVO TOTAL [%]
+
+	INDICE DE SOLVENCIA: Inverso del de endeudamiento. Mide la capacidad de pago de las deudas inmediatas. Refleja la cantidad de veces que la empresa puede cubrir el total de sus deudas con el total de sus recursos. Si este valor es inferior a 1 indicaría que el Activo total de la empresa no llega a cubrir la deuda.
+		INDICE DE SOLVENCIA = ACTIVO CORRIENTE / PASIVO CORRIENTE [$/$]
+
+	LIQUIDEZ
+		LIQUIDEZ = (ACTIVO CORRIENTE - BIENES DE CAMBIO) / PASIVO CORRIENTE  [$/$]
+
+	INDICE DE LIQUIDEZ: Capacidad de pago a corto plazo a medida que van venciendo. Cuantos pesos tengo por cada peso que debo a terceros.
+		INDICE DE LIQUIDEZ ABSOLUTA = DISPONIBLES(CAJA Y BANCOS) / PASIVO CORRIENTE
+
+	INDICE DE LIQUIDEZ SECA: 
+		INDICE DE LIQUIDEZ SECA = CAJA Y BANCOS / PASIVO CORRIENTE [$/$]
+	
+	CAPITAL DE TRABAJO(CT): Es la parte del Activo Corriente financiado con recursos propios.
+		CT = ACTIVO CORRIENTE - PASIVO CORRIENTE
+			CT < 0 ---> Liquidez Escasa, no puedo pagar deudas del periodo.
+			CT = 0 ---> Liquidez Ajustada, si me retraso en un cobro entro en escasa.
+			CT > 0 ---> Liquidez Adecuada, tengo margen. 
+
+
+	RENTABILIDAD DEL PATRIMONIO NETO (ROE): Beneficios economicos obtenidos a partir de los recursos propios e inversiones realizadas. Rendimiento que obtiene un inversor. Pasa por alto el ratio de endeudamiento. 
+		ROE = RESULTADO DEL EJERCICIO(NETO) / PATRIMONIO NETO (puedo usar el PNFinal, el PNInicial o el PNPromedio)  %
+
+	RENTABILIDAD DEL ACTIVO (ROA): Beneficio que obtiene una empresa, por las inversiones realizadas. -Valora la competencia de los ACTIVOS de una empresa para producir ganancias por ellos mismos. 
+		ROA = GANANCIA(BENEFICIO, UNAIG e intereses), antes de la deuda / ACTIVO TOTAL   %
+
+		ROE>ROA: Efecto palanca positivo, es decir sirvio tomar deuda para invertir.
+		ROE=ROA: Efecto palanca neutro, no suma ni resta tomar deuda.
+		ROE<ROA: Efecto palanca negativo, el financiamiento con credito hizo que disminuya el patrimonio neto.
+
+	RENTABILIDAD DE LAS VENTAS = MARGEN SOBRE VENTAS DEL NEGOCIO: Mide que proporcion de las ventas son ganancias (beneficio obtenido por cada peso vendido).
+		RENTABILIDAD DE LAS VENTAS = UNAIG / VENTAS
+
+ANALISIS ECONOMICO:
+	ROTACION DEL PATRIMONIO NETO: Representa la suma de todo el capital de la empresa, las reservas disponibles y los beneficios (ganancias) que no fueron distribuidas a los socios.
+		ROTACION DEL PATRIMONIO NETO = VENTAS  / PATRIMONIO NETO  [veces] (Si uso el patrimonio neto final le tengo que sumar el resultado del ejercicio al patrimonio neto inicial, si no tambien puedo usar el patrimonio neto promedio).
+	
+	ROTACION DEL ACTIVO CORRIENTE: Nos indica cada cuantos dias un activo se convierte en efectivo.
+		ROTACION DEL ACTIVO CORRIENTE = VENTAS / ACTIVO CORRIENTE [veces]
+	
+	ROTACION DE BIENES DE USO:
+		ROTACION BIENES DE USO = VENTAS / BIENES DE USO [veces/año]
+
+	PLAZO DE INMOVILIZACION DE LOS BIENES DE USO:
+		PLAZO INMOVILIZACION DE BIENES DE USO = BIENES DE USO / VENTAS x 365 [dias]
+
+	ROTACION DE BIENES DE CAMBIO: Número de veces que necesita ser repuesto el inventario del depósito en un período de tiempo, normalmente un año.
+		ROTACION DE BIENES DE CAMBIO = COSTO DE VENTAS / STOCK DE PRODUCCION TERMINADA
+
+
+	PLAZO DE INMOVILIZACION DE LOS BIENES DE CAMBIO: Cantida de dias que las existencias de produccion terminada se encuentran inmovilizadas en el almacen sin vender.
+		PLAZO DE INMOVILIZACION DE STOCKS = STOCK DE PRODUCCION TERMINADA(BIENES DE CAMBIO) / COSTO DE VENTAS  x365  [dias]
+	
+	ROTACION DEL CREDITO A CLIENTES(RCC): Mide la inmobilizacion en el Activo Corriente que causan los creditos dados a clientes. Mientras mas alto sea, mejor es. Demuestra la velocidad con la que una empresa cobra sus cuentas. 
+		ROTACION DE CREDITO CONCEDIDO A CLIENTES = VENTAS / CREDITO A CLIENTES [veces/año]
+
+	PLAZO DE CREDITO A CLIENTES: Representa la cantidad de dias de ventas en promedio que tardan los clientes en pagar sus facturas. Mientras menor sea, mas rentable es la empresa.
+		PLAZO DE CREDITO A CLIENTES = CREDITO A CLIENTES * 365 / VENTAS
+
+	PLAZO PROMEDIO DE PAGO A PROVEEDORES
+		PLAZO PROMEDIO DE PAGO A PROVEEDORES = DEUDA CON EL PROVEEDOR * 365 / COMPRAS DEL PERIODO
+		PLAZO DE CREDITO A PROVEEDORES = CREDITO DE PROVEEDOR * 365 / COSTO DE VENTAS
+
+	INDICE DE DUPONT: Determina la eficiencia en el uso de Activos, Capital de trabajo y apalancamiento financiero.
+		INDICE DE DUPONT = MARGEN SOBRE VENTAS * ROTACION DEL PATRIMONIO NETO
+
+	ROE = MARGEN SOBRE VENTAS * ROTACION DEL PATRIMONIO NETO (otra forma de sacarlo cuando me dan esos datos en el enunciado).
+	
+	MARGEN SOBRE VENTAS = RESULTADO DEL EJERCICIO (UNDIG) / VENTAS  [%] 
+	
+	MARGEN SOBRE VENTAS DEL NEGOCIO = RENTABILIDAD DE LAS VENTAS = RESULTADO DEL EJERCICIO AIG (UNAIG) / VENTAS    [%] Mide que proporcion de las ventas son ganancias (beneficio obtenido por cada peso vendido).
+	
+	INDICE DE COBRANZA = VENTAS NETAS * 365 / (CUENTAS + DOCUMENTOS A COBRAR)
+
+
+------------EVALUACION DE PROYECTOS-----------
+
+ROI = [VAN(0)/Inversion total (de todos los años) x cant años] x 100
+
+Payback = AÑOS + { [Inversion Inicial - ( Sumatoria Flujos hasta k -1 )] / Flujo de caja periodo K } x365
+
+TIR = i1 + (i2-i1) x VAN1 / (VAN1-VAN2)
