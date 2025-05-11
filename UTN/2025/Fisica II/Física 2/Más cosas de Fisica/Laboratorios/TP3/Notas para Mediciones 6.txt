@@ -1,0 +1,3 @@
+ATENCION:
+
+Para la medicion realizada manteniendo fija la coordenada Y = 11 cm, el potencial de 8V corresponde a un valor de X = 11,2 cm (agregar esta medicion para el trazado de la linea equipotencial).
